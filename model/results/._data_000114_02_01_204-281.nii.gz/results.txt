@@ -1,0 +1,428 @@
+slice 1
+lesion A, score: 0.963 | 28 x 16 mm | hypoattenuation: 0.855, liver: 0.827, lobular mass: 0.413, diaphragm: 0.277, 
+
+slice 2
+lesion A, score: 0.966 | 27 x 17 mm | hypoattenuation: 0.858, liver: 0.826, lobular mass: 0.436, diaphragm: 0.278, 
+
+slice 3
+lesion A, score: 0.967 | 28 x 17 mm | hypoattenuation: 0.856, liver: 0.825, lobular mass: 0.412, diaphragm: 0.279, 
+
+slice 4
+lesion A, score: 0.963 | 28 x 16 mm | hypoattenuation: 0.851, mass: 0.842, liver: 0.816, lobular: 0.650, diaphragm: 0.297, 
+
+slice 5
+lesion A, score: 0.964 | 29 x 15 mm | hypoattenuation: 0.857, mass: 0.835, liver: 0.806, lobular: 0.635, diaphragm: 0.306, 
+
+slice 6
+lesion A, score: 0.967 | 26 x 15 mm | hypoattenuation: 0.855, liver: 0.829, mass: 0.819, lobular: 0.634, diaphragm: 0.323, 
+
+slice 7
+lesion A, score: 0.975 | 26 x 15 mm | hypoattenuation: 0.868, liver: 0.847, mass: 0.823, lobular: 0.637, diaphragm: 0.316, 
+lesion B, score: 0.844 | 5 x 4 mm | enhancing: 0.970, hemangioma: 0.962, liver: 0.933, tiny: 0.917, calcified: 0.808, circumscribed: 0.740, mass: 0.625, 
+lesion C, score: 0.555 | 22 x 14 mm | hypoattenuation: 0.883, mass: 0.712, diaphragm: 0.633, lobular: 0.355, 
+
+slice 8
+lesion A, score: 0.980 | 26 x 16 mm | hypoattenuation: 0.873, liver: 0.862, mass: 0.817, lobular: 0.625, diaphragm: 0.280, 
+lesion B, score: 0.839 | 22 x 13 mm | hypoattenuation: 0.835, mass: 0.748, nodule: 0.670, upper abdomen: 0.651, diaphragm: 0.645, lobular: 0.299, 
+lesion C, score: 0.704 | 5 x 4 mm | enhancing: 0.971, hemangioma: 0.959, liver: 0.933, tiny: 0.908, calcified: 0.819, circumscribed: 0.735, mass: 0.637, 
+lesion D, score: 0.687 | 48 x 31 mm | hypoattenuation: 0.789, lobular mass: 0.600, circumscribed: 0.536, diaphragm: 0.459, 
+lesion E, score: 0.539 | 9 x 7 mm | liver: 0.807, mass: 0.738, hypoattenuation: 0.726, diaphragm: 0.262, 
+
+slice 9
+lesion A, score: 0.980 | 26 x 16 mm | liver: 0.879, hypoattenuation: 0.877, mass: 0.817, lobular: 0.636, diaphragm: 0.251, 
+lesion B, score: 0.843 | 52 x 33 mm | hypoattenuation: 0.793, lobular mass: 0.620, liver: 0.603, circumscribed: 0.544, diaphragm: 0.459, 
+
+slice 10
+lesion A, score: 0.980 | 26 x 15 mm | liver: 0.877, hypoattenuation: 0.871, mass: 0.813, lobular: 0.641, diaphragm: 0.244, 
+lesion B, score: 0.924 | 54 x 35 mm | hypoattenuation: 0.785, lobular mass: 0.655, diaphragm: 0.513, 
+
+slice 11
+lesion A, score: 0.974 | 24 x 14 mm | hypoattenuation: 0.863, liver: 0.851, mass: 0.785, lobular: 0.566, diaphragm: 0.296, 
+lesion B, score: 0.960 | 56 x 36 mm | hypoattenuation: 0.783, lobular mass: 0.666, diaphragm: 0.534, 
+
+slice 12
+lesion A, score: 0.984 | 57 x 37 mm | hypoattenuation: 0.793, lobular mass: 0.672, diaphragm: 0.544, 
+lesion B, score: 0.963 | 20 x 13 mm | hypoattenuation: 0.868, liver: 0.848, mass: 0.758, lobular: 0.502, diaphragm: 0.321, 
+lesion C, score: 0.839 | 11 x 9 mm | liver: 0.802, hypoattenuation: 0.764, mass: 0.756, peritoneum: 0.383, diaphragm: 0.227, 
+
+slice 13
+lesion A, score: 0.989 | 57 x 39 mm | hypoattenuation: 0.801, lobular mass: 0.683, diaphragm: 0.514, 
+lesion B, score: 0.960 | 6 x 4 mm | tiny: 0.919, subcentimeter: 0.913, hypoattenuation: 0.870, liver: 0.845, mass: 0.655, circumscribed: 0.639, 
+lesion C, score: 0.932 | 17 x 12 mm | hypoattenuation: 0.871, liver: 0.836, mass: 0.727, lobular: 0.421, diaphragm: 0.339, 
+
+slice 14
+lesion A, score: 0.988 | 58 x 39 mm | hypoattenuation: 0.804, lobular mass: 0.672, diaphragm: 0.515, 
+lesion B, score: 0.970 | 5 x 4 mm | tiny: 0.941, subcentimeter: 0.939, hypoattenuation: 0.898, liver: 0.834, circumscribed: 0.686, mass: 0.624, 
+lesion C, score: 0.919 | 18 x 12 mm | hypoattenuation: 0.868, liver: 0.834, mass: 0.725, lobular: 0.418, diaphragm: 0.344, 
+
+slice 15
+lesion A, score: 0.988 | 58 x 39 mm | hypoattenuation: 0.808, lobular mass: 0.642, diaphragm: 0.519, 
+lesion B, score: 0.974 | 5 x 4 mm | tiny: 0.955, subcentimeter: 0.947, hypoattenuation: 0.892, liver: 0.812, circumscribed: 0.667, mass: 0.615, 
+lesion C, score: 0.922 | 16 x 12 mm | hypoattenuation: 0.860, liver: 0.829, mass: 0.699, circumscribed: 0.519, lobular: 0.378, diaphragm: 0.314, 
+
+slice 16
+lesion A, score: 0.989 | 59 x 40 mm | hypoattenuation: 0.805, lobular mass: 0.628, diaphragm: 0.517, 
+lesion B, score: 0.948 | 5 x 4 mm | tiny: 0.942, subcentimeter: 0.936, hypoattenuation: 0.862, liver: 0.826, circumscribed: 0.667, mass: 0.622, 
+lesion C, score: 0.910 | 16 x 12 mm | hypoattenuation: 0.861, liver: 0.832, mass: 0.709, circumscribed: 0.547, lobular: 0.392, diaphragm: 0.273, 
+
+slice 17
+lesion A, score: 0.988 | 60 x 40 mm | hypoattenuation: 0.824, lobular mass: 0.619, liver: 0.612, diaphragm: 0.471, 
+lesion B, score: 0.896 | 4 x 4 mm | tiny: 0.935, subcentimeter: 0.934, liver: 0.858, hypoattenuation: 0.847, circumscribed: 0.708, mass: 0.629, 
+lesion C, score: 0.677 | 16 x 12 mm | liver: 0.857, hypoattenuation: 0.852, mass: 0.748, circumscribed: 0.554, lobular: 0.383, diaphragm: 0.326, 
+
+slice 18
+lesion A, score: 0.991 | 61 x 41 mm | hypoattenuation: 0.824, lobular mass: 0.648, abdomen: 0.580, diaphragm: 0.465, 
+
+slice 19
+lesion A, score: 0.991 | 59 x 42 mm | hypoattenuation: 0.833, liver: 0.665, lobular mass: 0.630, circumscribed: 0.535, diaphragm: 0.402, 
+lesion B, score: 0.580 | 9 x 8 mm | tiny: 0.902, liver: 0.854, hypoattenuation: 0.823, mass: 0.705, circumscribed: 0.684, 
+
+slice 20
+lesion A, score: 0.987 | 59 x 44 mm | hypoattenuation: 0.834, lobular mass: 0.671, liver: 0.666, circumscribed: 0.549, diaphragm: 0.400, 
+
+slice 21
+lesion A, score: 0.984 | 60 x 44 mm | hypoattenuation: 0.826, lobular mass: 0.677, liver: 0.609, circumscribed: 0.554, diaphragm: 0.413, 
+lesion B, score: 0.622 | 7 x 5 mm | tiny: 0.926, liver: 0.922, subcentimeter: 0.921, enhancing: 0.864, indistinct: 0.861, circumscribed: 0.821, hypoattenuation: 0.679, mass: 0.634, 
+
+slice 22
+lesion A, score: 0.978 | 59 x 45 mm | hypoattenuation: 0.827, lobular mass: 0.667, liver: 0.647, circumscribed: 0.592, diaphragm: 0.375, 
+
+slice 23
+lesion A, score: 0.979 | 60 x 45 mm | hypoattenuation: 0.829, liver: 0.663, lobular mass: 0.618, circumscribed: 0.601, diaphragm: 0.350, 
+
+slice 24
+lesion A, score: 0.984 | 61 x 46 mm | hypoattenuation: 0.829, liver: 0.698, lobular mass: 0.604, circumscribed: 0.599, diaphragm: 0.311, 
+
+slice 25
+lesion A, score: 0.983 | 60 x 46 mm | hypoattenuation: 0.820, liver: 0.723, circumscribed: 0.613, lobular mass: 0.594, diaphragm: 0.275, 
+lesion B, score: 0.649 | 9 x 5 mm | enhancing: 0.958, liver: 0.941, hemangioma: 0.922, tiny: 0.845, calcified: 0.798, circumscribed: 0.718, mass: 0.692, 
+
+slice 26
+lesion A, score: 0.983 | 61 x 48 mm | hypoattenuation: 0.816, liver: 0.712, lobular mass: 0.645, circumscribed: 0.597, diaphragm: 0.298, 
+lesion B, score: 0.751 | 14 x 10 mm | liver: 0.938, enhancing: 0.903, tiny: 0.801, circumscribed: 0.739, mass: 0.712, 
+
+slice 27
+lesion A, score: 0.976 | 60 x 44 mm | hypoattenuation: 0.831, liver: 0.753, circumscribed: 0.632, lobular mass: 0.622, diaphragm: 0.261, 
+lesion B, score: 0.729 | 10 x 9 mm | upper abdomen: 0.931, enhancing: 0.815, mass: 0.781, hypoattenuation: 0.778, circumscribed: 0.644, lobular: 0.326, peritoneum: 0.262, 
+
+slice 28
+lesion A, score: 0.967 | 60 x 50 mm | hypoattenuation: 0.835, liver: 0.751, lobular mass: 0.636, circumscribed: 0.635, diaphragm: 0.258, 
+lesion B, score: 0.816 | 11 x 10 mm | upper abdomen: 0.925, hypoattenuation: 0.819, enhancing: 0.785, mass: 0.784, circumscribed: 0.645, lobular: 0.334, 
+
+slice 29
+lesion A, score: 0.961 | 62 x 44 mm | hypoattenuation: 0.835, liver: 0.761, circumscribed: 0.657, lobular mass: 0.620, diaphragm: 0.258, 
+
+slice 30
+lesion A, score: 0.969 | 59 x 49 mm | hypoattenuation: 0.829, liver: 0.791, lobular mass: 0.671, circumscribed: 0.666, diaphragm: 0.218, 
+lesion B, score: 0.552 | 14 x 11 mm | enhancing: 0.942, hemangioma: 0.925, mass: 0.825, liver: 0.755, nodule: 0.666, circumscribed: 0.649, 
+
+slice 31
+lesion A, score: 0.976 | 62 x 44 mm | hypoattenuation: 0.846, liver: 0.779, circumscribed: 0.681, lobular mass: 0.652, diaphragm: 0.233, 
+lesion B, score: 0.680 | 9 x 6 mm | tiny: 0.910, enhancing: 0.894, liver: 0.837, mass: 0.745, circumscribed: 0.531, peritoneum: 0.526, 
+
+slice 32
+lesion A, score: 0.974 | 63 x 45 mm | hypoattenuation: 0.841, liver: 0.771, circumscribed: 0.691, lobular mass: 0.631, diaphragm: 0.253, 
+
+slice 33
+lesion A, score: 0.972 | 53 x 49 mm | hypoattenuation: 0.855, liver: 0.842, circumscribed: 0.743, lobular mass: 0.565, 
+lesion B, score: 0.517 | 41 x 26 mm | mass: 0.912, hypoattenuation: 0.899, soft tissue: 0.880, upper abdomen: 0.844, enlargement: 0.717, circumscribed: 0.553, lobular: 0.432, peritoneum: 0.412, diaphragm: 0.228, 
+
+slice 34
+lesion A, score: 0.976 | 64 x 45 mm | hypoattenuation: 0.834, liver: 0.740, circumscribed: 0.668, lobular mass: 0.650, diaphragm: 0.294, 
+lesion B, score: 0.870 | 45 x 28 mm | mass: 0.915, hypoattenuation: 0.888, soft tissue: 0.866, upper abdomen: 0.829, enlargement: 0.723, circumscribed: 0.520, lobular: 0.465, peritoneum: 0.398, diaphragm: 0.221, 
+
+slice 35
+lesion A, score: 0.972 | 65 x 47 mm | hypoattenuation: 0.832, liver: 0.721, lobular mass: 0.666, circumscribed: 0.639, diaphragm: 0.321, 
+lesion B, score: 0.931 | 46 x 27 mm | mass: 0.910, hypoattenuation: 0.875, upper abdomen: 0.829, enlargement: 0.729, circumscribed: 0.519, lobular: 0.470, peritoneum: 0.360, diaphragm: 0.203, 
+lesion C, score: 0.697 | 9 x 5 mm | tiny: 0.874, liver: 0.822, enhancing: 0.788, hypoattenuation: 0.696, mass: 0.681, circumscribed: 0.567, peritoneum: 0.264, 
+lesion D, score: 0.621 | 18 x 12 mm | soft tissue: 0.901, hypoattenuation: 0.864, mass: 0.851, lymphadenopathy: 0.806, upper abdomen: 0.735, lesser sac: 0.704, circumscribed: 0.597, 
+
+slice 36
+lesion A, score: 0.976 | 63 x 48 mm | hypoattenuation: 0.823, large: 0.805, liver: 0.703, lobular mass: 0.696, circumscribed: 0.632, diaphragm: 0.303, 
+lesion B, score: 0.967 | 39 x 29 mm | mass: 0.904, hypoattenuation: 0.837, upper abdomen: 0.794, enlargement: 0.747, lobular: 0.422, peritoneum: 0.355, diaphragm: 0.234, 
+lesion C, score: 0.651 | 5 x 2 mm | tiny: 0.851, enhancing: 0.818, liver: 0.779, mass: 0.676, circumscribed: 0.552, peritoneum: 0.273, 
+lesion D, score: 0.615 | 16 x 10 mm | mass: 0.822, hypoattenuation: 0.781, nodule: 0.749, upper abdomen: 0.718, circumscribed: 0.646, lobular: 0.358, 
+lesion E, score: 0.553 | 18 x 12 mm | soft tissue: 0.904, hypoattenuation: 0.849, mass: 0.845, lymphadenopathy: 0.818, stomach: 0.804, lesser sac: 0.731, nodule: 0.709, circumscribed: 0.581, 
+
+slice 37
+lesion A, score: 0.972 | 60 x 48 mm | hypoattenuation: 0.825, large: 0.822, liver: 0.733, lobular mass: 0.705, circumscribed: 0.666, diaphragm: 0.257, 
+lesion B, score: 0.958 | 46 x 28 mm | mass: 0.897, hypoattenuation: 0.836, upper abdomen: 0.813, enlargement: 0.737, circumscribed: 0.520, lobular: 0.409, peritoneum: 0.358, diaphragm: 0.204, 
+
+slice 38
+lesion A, score: 0.959 | 63 x 46 mm | hypoattenuation: 0.826, large: 0.803, liver: 0.732, circumscribed: 0.709, lobular mass: 0.656, diaphragm: 0.240, 
+lesion B, score: 0.935 | 47 x 28 mm | mass: 0.895, hypoattenuation: 0.838, upper abdomen: 0.814, enlargement: 0.744, circumscribed: 0.556, lobular: 0.399, peritoneum: 0.314, diaphragm: 0.203, 
+
+slice 39
+lesion A, score: 0.947 | 62 x 46 mm | hypoattenuation: 0.817, circumscribed: 0.712, liver: 0.710, lobular mass: 0.640, diaphragm: 0.263, 
+lesion B, score: 0.925 | 46 x 28 mm | mass: 0.893, hypoattenuation: 0.824, upper abdomen: 0.815, enlargement: 0.734, circumscribed: 0.567, lobular: 0.377, peritoneum: 0.327, diaphragm: 0.209, 
+lesion C, score: 0.618 | 21 x 14 mm | enhancing: 0.938, liver: 0.828, mass: 0.770, calcified: 0.754, nodule: 0.692, lobular: 0.303, peritoneum: 0.274, 
+
+slice 40
+lesion A, score: 0.951 | 48 x 29 mm | mass: 0.894, upper abdomen: 0.824, hypoattenuation: 0.814, enlargement: 0.735, circumscribed: 0.536, lobular: 0.386, peritoneum: 0.335, 
+lesion B, score: 0.923 | 59 x 46 mm | hypoattenuation: 0.818, large: 0.802, circumscribed: 0.734, liver: 0.731, lobular mass: 0.643, diaphragm: 0.239, 
+lesion C, score: 0.599 | 21 x 15 mm | enhancing: 0.927, liver: 0.817, mass: 0.793, calcified: 0.743, nodule: 0.688, lobular: 0.355, peritoneum: 0.316, diaphragm: 0.205, 
+
+slice 41
+lesion A, score: 0.963 | 49 x 31 mm | mass: 0.896, upper abdomen: 0.817, hypoattenuation: 0.811, enlargement: 0.738, lobular: 0.408, peritoneum: 0.323, 
+lesion B, score: 0.933 | 49 x 45 mm | hypoattenuation: 0.857, liver: 0.820, conglomerate: 0.799, circumscribed: 0.782, enlargement: 0.724, lobular mass: 0.590, 
+
+slice 42
+lesion A, score: 0.967 | 47 x 31 mm | mass: 0.896, upper abdomen: 0.831, hypoattenuation: 0.809, enlargement: 0.741, lobular: 0.398, peritoneum: 0.323, 
+lesion B, score: 0.932 | 56 x 45 mm | hypoattenuation: 0.822, large: 0.814, conglomerate: 0.781, circumscribed: 0.757, liver: 0.742, lobular mass: 0.636, diaphragm: 0.208, 
+
+slice 43
+lesion A, score: 0.951 | 45 x 32 mm | mass: 0.891, upper abdomen: 0.852, hypoattenuation: 0.821, enlargement: 0.749, circumscribed: 0.557, lobular: 0.362, peritoneum: 0.300, 
+lesion B, score: 0.932 | 54 x 45 mm | hypoattenuation: 0.823, large: 0.802, conglomerate: 0.785, circumscribed: 0.756, liver: 0.740, lobular mass: 0.613, diaphragm: 0.214, 
+
+slice 44
+lesion A, score: 0.957 | 43 x 32 mm | mass: 0.888, upper abdomen: 0.866, hypoattenuation: 0.794, enlargement: 0.739, circumscribed: 0.564, lobular: 0.351, peritoneum: 0.311, 
+lesion B, score: 0.920 | 52 x 40 mm | hypoattenuation: 0.843, circumscribed: 0.794, liver: 0.786, conglomerate: 0.753, lobular mass: 0.545, 
+
+slice 45
+lesion A, score: 0.940 | 44 x 34 mm | mass: 0.890, upper abdomen: 0.877, hypoattenuation: 0.771, enlargement: 0.737, lymph node: 0.705, circumscribed: 0.575, lobular: 0.342, peritoneum: 0.293, 
+lesion B, score: 0.904 | 51 x 35 mm | hypoattenuation: 0.831, circumscribed: 0.789, liver: 0.730, lobular mass: 0.560, diaphragm: 0.215, 
+lesion C, score: 0.541 | 9 x 5 mm | upper abdomen: 0.927, mass: 0.847, enhancing: 0.839, nodule: 0.726, circumscribed: 0.714, peritoneum: 0.355, 
+
+slice 46
+lesion A, score: 0.958 | 46 x 33 mm | mass: 0.895, upper abdomen: 0.888, hypoattenuation: 0.778, enlargement: 0.737, circumscribed: 0.580, lobular: 0.349, peritoneum: 0.270, 
+lesion B, score: 0.915 | 53 x 37 mm | large: 0.806, hypoattenuation: 0.791, circumscribed: 0.741, liver: 0.636, lobular mass: 0.630, diaphragm: 0.267, 
+
+slice 47
+lesion A, score: 0.959 | 47 x 33 mm | mass: 0.887, upper abdomen: 0.883, hypoattenuation: 0.789, enlargement: 0.704, circumscribed: 0.589, lobular: 0.343, peritoneum: 0.259, 
+lesion B, score: 0.910 | 56 x 36 mm | hypoattenuation: 0.811, circumscribed: 0.761, liver: 0.680, lobular mass: 0.587, diaphragm: 0.235, 
+lesion C, score: 0.540 | 21 x 19 mm | hypoattenuation: 0.826, mass: 0.772, liver: 0.762, circumscribed: 0.707, peritoneum: 0.402, 
+lesion D, score: 0.532 | 22 x 16 mm | upper abdomen: 0.906, mass: 0.877, enhancing: 0.826, lymph node: 0.745, circumscribed: 0.562, peritoneum: 0.328, 
+
+slice 48
+lesion A, score: 0.955 | 45 x 35 mm | upper abdomen: 0.886, mass: 0.882, hypoattenuation: 0.770, lymph node: 0.703, circumscribed: 0.594, lobular: 0.312, peritoneum: 0.275, 
+lesion B, score: 0.903 | 46 x 31 mm | hypoattenuation: 0.772, upper abdomen: 0.755, circumscribed: 0.735, lobular mass: 0.604, diaphragm: 0.269, 
+lesion C, score: 0.691 | 20 x 16 mm | hypoattenuation: 0.847, liver: 0.802, mass: 0.781, circumscribed: 0.687, peritoneum: 0.395, lobular: 0.252, 
+lesion D, score: 0.516 | 27 x 15 mm | enhancing: 0.929, mass: 0.880, upper abdomen: 0.815, calcified: 0.738, circumscribed: 0.625, lobular: 0.453, 
+
+slice 49
+lesion A, score: 0.962 | 44 x 34 mm | upper abdomen: 0.886, mass: 0.882, hypoattenuation: 0.751, lymph node: 0.725, enlargement: 0.708, circumscribed: 0.606, lobular: 0.307, peritoneum: 0.278, 
+lesion B, score: 0.921 | 27 x 16 mm | enhancing: 0.926, mass: 0.892, upper abdomen: 0.813, calcified: 0.738, circumscribed: 0.630, lobular: 0.474, 
+lesion C, score: 0.846 | 47 x 31 mm | large: 0.824, conglomerate: 0.806, circumscribed: 0.753, upper abdomen: 0.747, hypoattenuation: 0.738, lobular mass: 0.617, aorta: 0.458, diaphragm: 0.223, 
+lesion D, score: 0.804 | 21 x 19 mm | hypoattenuation: 0.853, liver: 0.789, mass: 0.777, circumscribed: 0.660, peritoneum: 0.377, 
+
+slice 50
+lesion A, score: 0.964 | 41 x 37 mm | upper abdomen: 0.897, mass: 0.880, lymph node: 0.757, hypoattenuation: 0.736, enlargement: 0.719, circumscribed: 0.630, peritoneum: 0.287, lobular: 0.273, 
+lesion B, score: 0.916 | 21 x 15 mm | hypoattenuation: 0.882, liver: 0.835, mass: 0.775, circumscribed: 0.635, peritoneum: 0.347, lobular: 0.290, 
+lesion C, score: 0.773 | 44 x 28 mm | large: 0.812, conglomerate: 0.798, circumscribed: 0.778, upper abdomen: 0.776, hypoattenuation: 0.759, lobular mass: 0.589, 
+lesion D, score: 0.634 | 14 x 8 mm | exophytic: 0.919, upper abdomen: 0.903, soft tissue: 0.852, mass: 0.839, hypoattenuation: 0.830, nodule: 0.691, circumscribed: 0.635, peritoneum: 0.363, 
+lesion E, score: 0.555 | 11 x 9 mm | enhancing: 0.967, hemangioma: 0.961, liver: 0.944, indistinct: 0.881, tiny: 0.845, circumscribed: 0.778, calcified: 0.734, mass: 0.698, 
+lesion F, score: 0.501 | 24 x 19 mm | upper abdomen: 0.929, enhancing: 0.888, mass: 0.887, soft tissue: 0.854, lymph node: 0.740, calcified: 0.719, circumscribed: 0.506, peritoneum: 0.449, lobular: 0.283, 
+
+slice 51
+lesion A, score: 0.965 | 41 x 37 mm | upper abdomen: 0.890, mass: 0.879, lymph node: 0.780, hypoattenuation: 0.746, enlargement: 0.736, circumscribed: 0.647, peritoneum: 0.293, lobular: 0.259, 
+lesion B, score: 0.948 | 21 x 16 mm | hypoattenuation: 0.903, liver: 0.850, mass: 0.769, circumscribed: 0.628, peritoneum: 0.330, lobular: 0.292, 
+lesion C, score: 0.715 | 15 x 7 mm | exophytic: 0.921, upper abdomen: 0.892, mass: 0.828, hypoattenuation: 0.806, nodule: 0.705, circumscribed: 0.608, peritoneum: 0.409, 
+lesion D, score: 0.671 | 12 x 8 mm | enhancing: 0.967, hemangioma: 0.960, liver: 0.942, indistinct: 0.886, tiny: 0.862, circumscribed: 0.775, calcified: 0.728, mass: 0.690, 
+lesion E, score: 0.563 | 5 x 4 mm | enhancing: 0.785, calcified: 0.734, nodule: 0.717, mass: 0.700, upper abdomen: 0.677, peritoneum: 0.419, 
+lesion F, score: 0.547 | 20 x 15 mm | upper abdomen: 0.938, enhancing: 0.908, mass: 0.884, soft tissue: 0.854, lymph node: 0.746, calcified: 0.742, circumscribed: 0.540, peritoneum: 0.434, 
+
+slice 52
+lesion A, score: 0.970 | 21 x 15 mm | hypoattenuation: 0.917, liver: 0.851, mass: 0.767, circumscribed: 0.649, peritoneum: 0.330, lobular: 0.266, 
+lesion B, score: 0.963 | 41 x 33 mm | mass: 0.884, upper abdomen: 0.881, soft tissue: 0.855, lymph node: 0.804, conglomerate: 0.757, enlargement: 0.750, hypoattenuation: 0.731, circumscribed: 0.630, peritoneum: 0.280, lobular: 0.266, 
+lesion C, score: 0.746 | 19 x 12 mm | retroperitoneum: 0.823, hypoattenuation: 0.813, mass: 0.799, upper abdomen: 0.794, circumscribed: 0.567, lobular: 0.275, 
+lesion D, score: 0.744 | 17 x 13 mm | upper abdomen: 0.938, enhancing: 0.937, mass: 0.875, calcified: 0.793, lymph node: 0.740, circumscribed: 0.523, peritoneum: 0.378, 
+lesion E, score: 0.633 | 39 x 25 mm | large: 0.816, conglomerate: 0.799, upper abdomen: 0.795, circumscribed: 0.794, hypoattenuation: 0.771, enlargement: 0.720, lobular mass: 0.543, 
+lesion F, score: 0.599 | 26 x 16 mm | porta Hepatis: 0.863, lymph node: 0.840, mass: 0.810, circumscribed: 0.805, enlargement: 0.776, hypoattenuation: 0.749, 
+
+slice 53
+lesion A, score: 0.982 | 21 x 16 mm | hypoattenuation: 0.916, liver: 0.837, mass: 0.782, circumscribed: 0.595, peritoneum: 0.313, lobular: 0.286, 
+lesion B, score: 0.917 | 43 x 32 mm | mass: 0.886, soft tissue: 0.861, stomach: 0.833, lymph node: 0.803, hypoattenuation: 0.753, enlargement: 0.748, lesser sac: 0.742, circumscribed: 0.607, peritoneum: 0.316, lobular: 0.270, 
+lesion C, score: 0.887 | 10 x 8 mm | fat-containing: 0.961, upper abdomen: 0.877, retroperitoneum: 0.866, hypoattenuation: 0.862, mass: 0.808, lobular: 0.298, 
+lesion D, score: 0.863 | 26 x 20 mm | mass: 0.901, enhancing: 0.812, upper abdomen: 0.807, retroperitoneum: 0.801, calcified: 0.749, lobular: 0.481, 
+lesion E, score: 0.857 | 10 x 8 mm | enhancing: 0.956, upper abdomen: 0.954, mass: 0.872, calcified: 0.822, lymph node: 0.751, circumscribed: 0.512, peritoneum: 0.375, 
+lesion F, score: 0.761 | 37 x 25 mm | large: 0.822, conglomerate: 0.816, upper abdomen: 0.799, circumscribed: 0.791, hypoattenuation: 0.763, enlargement: 0.742, lobular mass: 0.537, 
+lesion G, score: 0.655 | 4 x 3 mm | enhancing: 0.838, mass: 0.824, upper abdomen: 0.819, retroperitoneum: 0.803, calcified: 0.795, nodule: 0.680, lobular: 0.365, 
+lesion H, score: 0.645 | 25 x 16 mm | lymph node: 0.819, mass: 0.818, circumscribed: 0.800, enlargement: 0.766, liver: 0.763, conglomerate: 0.759, hypoattenuation: 0.745, lobular: 0.250, 
+lesion I, score: 0.585 | 10 x 7 mm | abdomen: 0.854, nodule: 0.771, mass: 0.717, circumscribed: 0.538, 
+lesion J, score: 0.555 | 5 x 4 mm | exophytic: 0.965, upper abdomen: 0.891, enhancing: 0.888, tiny: 0.865, mass: 0.826, nodule: 0.818, calcified: 0.714, lobular: 0.286, peritoneum: 0.275, 
+
+slice 54
+lesion A, score: 0.988 | 21 x 17 mm | hypoattenuation: 0.912, liver: 0.833, mass: 0.795, circumscribed: 0.561, lobular: 0.312, peritoneum: 0.291, 
+lesion B, score: 0.922 | 39 x 28 mm | mass: 0.885, soft tissue: 0.870, stomach: 0.826, lymph node: 0.812, enlargement: 0.745, hypoattenuation: 0.738, lesser sac: 0.728, circumscribed: 0.573, peritoneum: 0.372, lobular: 0.269, 
+lesion C, score: 0.897 | 10 x 7 mm | upper abdomen: 0.957, enhancing: 0.955, mass: 0.870, soft tissue: 0.862, calcified: 0.808, lymph node: 0.774, peritoneum: 0.424, 
+lesion D, score: 0.867 | 26 x 21 mm | mass: 0.903, enhancing: 0.824, retroperitoneum: 0.805, upper abdomen: 0.805, calcified: 0.753, lobular: 0.495, 
+lesion E, score: 0.789 | 4 x 4 mm | exophytic: 0.968, enhancing: 0.883, upper abdomen: 0.861, tiny: 0.844, nodule: 0.829, mass: 0.823, calcified: 0.741, lobular: 0.329, peritoneum: 0.279, 
+lesion F, score: 0.732 | 10 x 7 mm | nodule: 0.767, retroperitoneum: 0.764, mass: 0.711, circumscribed: 0.531, 
+lesion G, score: 0.721 | 9 x 8 mm | fat-containing: 0.962, upper abdomen: 0.873, retroperitoneum: 0.858, hypoattenuation: 0.840, mass: 0.806, lobular: 0.295, 
+lesion H, score: 0.539 | 24 x 16 mm | lymph node: 0.812, mass: 0.809, circumscribed: 0.800, enlargement: 0.766, liver: 0.733, hypoattenuation: 0.688, 
+lesion I, score: 0.520 | 4 x 3 mm | mass: 0.810, upper abdomen: 0.806, enhancing: 0.806, retroperitoneum: 0.799, calcified: 0.792, nodule: 0.652, lobular: 0.353, 
+
+slice 55
+lesion A, score: 0.987 | 21 x 17 mm | hypoattenuation: 0.914, liver: 0.828, mass: 0.799, circumscribed: 0.564, peritoneum: 0.321, lobular: 0.297, 
+lesion B, score: 0.840 | 9 x 7 mm | enhancing: 0.951, upper abdomen: 0.947, mass: 0.851, calcified: 0.804, lymph node: 0.772, circumscribed: 0.507, peritoneum: 0.406, 
+lesion C, score: 0.832 | 36 x 24 mm | mass: 0.873, soft tissue: 0.869, lymph node: 0.831, stomach: 0.826, lesser sac: 0.750, enlargement: 0.738, hypoattenuation: 0.715, circumscribed: 0.577, peritoneum: 0.409, lobular: 0.259, 
+lesion D, score: 0.830 | 25 x 21 mm | mass: 0.905, enhancing: 0.836, retroperitoneum: 0.809, upper abdomen: 0.801, calcified: 0.769, lobular: 0.517, 
+lesion E, score: 0.787 | 10 x 7 mm | retroperitoneum: 0.785, nodule: 0.738, mass: 0.712, 
+lesion F, score: 0.542 | 25 x 16 mm | mass: 0.818, circumscribed: 0.805, lymph node: 0.788, enlargement: 0.757, liver: 0.723, lobular: 0.252, 
+
+slice 56
+lesion A, score: 0.989 | 22 x 18 mm | hypoattenuation: 0.923, liver: 0.858, mass: 0.791, circumscribed: 0.589, peritoneum: 0.301, lobular: 0.297, 
+lesion B, score: 0.788 | 11 x 8 mm | hemangioma: 0.903, liver: 0.889, tiny: 0.886, enhancing: 0.837, mass: 0.710, circumscribed: 0.701, hypoattenuation: 0.680, peritoneum: 0.374, 
+lesion C, score: 0.759 | 34 x 19 mm | mass: 0.926, soft tissue: 0.918, peritoneum: 0.816, hypoattenuation: 0.775, upper abdomen: 0.748, lobular: 0.507, 
+lesion D, score: 0.682 | 10 x 7 mm | retroperitoneum: 0.811, mass: 0.705, nodule: 0.688, 
+lesion E, score: 0.671 | 26 x 16 mm | mass: 0.819, lymph node: 0.813, circumscribed: 0.811, enlargement: 0.771, liver: 0.713, 
+lesion F, score: 0.656 | 26 x 23 mm | mass: 0.908, enhancing: 0.852, retroperitoneum: 0.803, upper abdomen: 0.799, calcified: 0.787, lobular: 0.550, 
+lesion G, score: 0.543 | 10 x 8 mm | enhancing: 0.945, upper abdomen: 0.943, mass: 0.865, calcified: 0.801, lymph node: 0.757, circumscribed: 0.509, peritoneum: 0.432, 
+
+slice 57
+lesion A, score: 0.981 | 23 x 19 mm | hypoattenuation: 0.928, liver: 0.872, mass: 0.778, circumscribed: 0.601, peritoneum: 0.298, lobular: 0.279, 
+lesion B, score: 0.862 | 33 x 22 mm | mass: 0.929, soft tissue: 0.916, peritoneum: 0.821, hypoattenuation: 0.773, upper abdomen: 0.761, lobular: 0.509, 
+lesion C, score: 0.826 | 34 x 17 mm | mass: 0.835, lymph node: 0.826, circumscribed: 0.812, conglomerate: 0.802, enlargement: 0.792, liver: 0.674, lobular: 0.260, 
+lesion D, score: 0.820 | 10 x 8 mm | tiny: 0.903, liver: 0.881, enhancing: 0.833, mass: 0.708, circumscribed: 0.698, hypoattenuation: 0.671, peritoneum: 0.403, 
+lesion E, score: 0.551 | 7 x 5 mm | enhancing: 0.965, upper abdomen: 0.894, calcified: 0.884, mass: 0.798, nodule: 0.720, circumscribed: 0.563, 
+
+slice 58
+lesion A, score: 0.981 | 23 x 19 mm | hypoattenuation: 0.922, liver: 0.881, mass: 0.779, circumscribed: 0.612, lobular: 0.282, peritoneum: 0.266, 
+lesion B, score: 0.920 | 33 x 21 mm | mass: 0.927, soft tissue: 0.913, peritoneum: 0.807, hypoattenuation: 0.767, upper abdomen: 0.750, lobular: 0.504, 
+lesion C, score: 0.765 | 38 x 18 mm | conglomerate: 0.847, mass: 0.844, lymph node: 0.839, circumscribed: 0.814, enlargement: 0.803, liver: 0.654, lobular: 0.275, 
+lesion D, score: 0.587 | 32 x 19 mm | mass: 0.915, enhancing: 0.861, upper abdomen: 0.839, retroperitoneum: 0.822, calcified: 0.785, lobular: 0.556, 
+
+slice 59
+lesion A, score: 0.981 | 24 x 19 mm | hypoattenuation: 0.908, liver: 0.889, mass: 0.788, circumscribed: 0.586, lobular: 0.362, peritoneum: 0.262, 
+lesion B, score: 0.934 | 33 x 20 mm | mass: 0.925, soft tissue: 0.920, peritoneum: 0.822, hypoattenuation: 0.733, upper abdomen: 0.711, lobular: 0.517, 
+lesion C, score: 0.638 | 9 x 9 mm | upper abdomen: 0.950, enhancing: 0.944, lymph node: 0.826, mass: 0.825, calcified: 0.782, circumscribed: 0.670, peritoneum: 0.278, 
+lesion D, score: 0.559 | 47 x 23 mm | mass: 0.879, conglomerate: 0.846, circumscribed: 0.833, large: 0.814, hypoattenuation: 0.791, enlargement: 0.765, lymph node: 0.745, liver: 0.744, lobular: 0.379, 
+
+slice 60
+lesion A, score: 0.978 | 26 x 19 mm | hypoattenuation: 0.895, liver: 0.884, mass: 0.782, circumscribed: 0.601, lobular: 0.403, 
+lesion B, score: 0.932 | 16 x 12 mm | soft tissue: 0.956, mass: 0.918, peritoneum: 0.881, nodule: 0.754, lobular: 0.427, 
+lesion C, score: 0.857 | 25 x 19 mm | circumscribed: 0.828, mass: 0.828, hypoattenuation: 0.808, liver: 0.795, enlargement: 0.709, lobular: 0.276, 
+lesion D, score: 0.824 | 33 x 20 mm | mass: 0.919, soft tissue: 0.916, peritoneum: 0.852, upper abdomen: 0.721, hypoattenuation: 0.717, lobular: 0.487, 
+lesion E, score: 0.799 | 9 x 8 mm | upper abdomen: 0.958, enhancing: 0.944, mass: 0.843, lymph node: 0.818, calcified: 0.777, circumscribed: 0.664, peritoneum: 0.295, 
+lesion F, score: 0.707 | 5 x 3 mm | exophytic: 0.967, enhancing: 0.916, upper abdomen: 0.891, calcified: 0.826, tiny: 0.820, mass: 0.818, nodule: 0.729, peritoneum: 0.430, lobular: 0.357, 
+
+slice 61
+lesion A, score: 0.961 | 13 x 12 mm | soft tissue: 0.945, mass: 0.899, peritoneum: 0.849, nodule: 0.738, lobular: 0.402, 
+lesion B, score: 0.956 | 27 x 20 mm | hypoattenuation: 0.877, liver: 0.863, mass: 0.769, circumscribed: 0.558, lobular: 0.413, peritoneum: 0.256, 
+lesion C, score: 0.932 | 24 x 19 mm | circumscribed: 0.830, hypoattenuation: 0.815, liver: 0.811, mass: 0.803, lobular: 0.265, 
+lesion D, score: 0.913 | 5 x 4 mm | exophytic: 0.972, enhancing: 0.911, upper abdomen: 0.873, mass: 0.817, calcified: 0.809, nodule: 0.801, peritoneum: 0.393, lobular: 0.369, 
+lesion E, score: 0.785 | 36 x 21 mm | mass: 0.907, soft tissue: 0.897, peritoneum: 0.855, upper abdomen: 0.766, hypoattenuation: 0.695, lobular: 0.461, 
+lesion F, score: 0.685 | 6 x 5 mm | enhancing: 0.899, calcified: 0.835, nodule: 0.805, mass: 0.761, peritoneum: 0.452, lobular: 0.337, 
+
+slice 62
+lesion A, score: 0.942 | 25 x 19 mm | hypoattenuation: 0.832, circumscribed: 0.827, mass: 0.806, liver: 0.785, enlargement: 0.719, lobular: 0.292, 
+lesion B, score: 0.852 | 13 x 11 mm | soft tissue: 0.935, mass: 0.881, peritoneum: 0.810, nodule: 0.735, lobular: 0.413, 
+lesion C, score: 0.815 | 25 x 21 mm | hypoattenuation: 0.832, liver: 0.804, mass: 0.732, circumscribed: 0.526, lobular: 0.424, peritoneum: 0.265, 
+lesion D, score: 0.652 | 35 x 22 mm | mass: 0.893, soft tissue: 0.871, peritoneum: 0.827, upper abdomen: 0.774, hypoattenuation: 0.694, lobular: 0.453, 
+
+slice 63
+lesion A, score: 0.960 | 44 x 23 mm | mass: 0.862, hypoattenuation: 0.848, circumscribed: 0.824, conglomerate: 0.820, liver: 0.778, enlargement: 0.766, lymph node: 0.732, lobular: 0.360, 
+lesion B, score: 0.898 | 6 x 6 mm | enhancing: 0.910, upper abdomen: 0.854, calcified: 0.808, lymph node: 0.805, nodule: 0.709, mass: 0.700, circumscribed: 0.654, peritoneum: 0.260, 
+lesion C, score: 0.741 | 9 x 8 mm | adenoma: 0.974, nodule: 0.890, adrenal gland: 0.854, mass: 0.692, circumscribed: 0.541, 
+lesion D, score: 0.532 | 24 x 22 mm | hypoattenuation: 0.791, liver: 0.718, mass: 0.712, circumscribed: 0.512, lobular: 0.417, 
+lesion E, score: 0.513 | 11 x 8 mm | solid: 0.962, kidney: 0.960, cortex: 0.947, exophytic: 0.936, cyst: 0.826, mass: 0.792, hypoattenuation: 0.711, lobular: 0.402, 
+
+slice 64
+lesion A, score: 0.965 | 44 x 24 mm | mass: 0.858, hypoattenuation: 0.852, conglomerate: 0.837, large: 0.806, circumscribed: 0.803, enlargement: 0.775, liver: 0.760, lymph node: 0.753, lobular: 0.342, 
+lesion B, score: 0.912 | 6 x 4 mm | exophytic: 0.932, enhancing: 0.911, upper abdomen: 0.880, mass: 0.839, calcified: 0.838, retroperitoneum: 0.826, lobular: 0.432, 
+lesion C, score: 0.883 | 10 x 8 mm | adenoma: 0.980, nodule: 0.896, left adrenal gland: 0.868, mass: 0.684, circumscribed: 0.545, 
+lesion D, score: 0.866 | 6 x 6 mm | enhancing: 0.875, upper abdomen: 0.851, lymph node: 0.817, calcified: 0.782, circumscribed: 0.694, mass: 0.681, nodule: 0.659, peritoneum: 0.255, 
+lesion E, score: 0.764 | 8 x 7 mm | cortex: 0.972, solid: 0.957, kidney: 0.957, exophytic: 0.931, cyst: 0.883, tiny: 0.827, hypoattenuation: 0.816, mass: 0.769, lobular: 0.325, 
+lesion F, score: 0.572 | 13 x 11 mm | mass: 0.891, enhancing: 0.887, retroperitoneum: 0.857, upper abdomen: 0.815, calcified: 0.808, nodule: 0.661, lobular: 0.478, 
+
+slice 65
+lesion A, score: 0.978 | 42 x 23 mm | mass: 0.853, hypoattenuation: 0.843, conglomerate: 0.829, circumscribed: 0.791, enlargement: 0.773, lymph node: 0.748, liver: 0.747, lobular: 0.372, 
+lesion B, score: 0.962 | 7 x 7 mm | cortex: 0.975, kidney: 0.959, solid: 0.957, cyst: 0.904, tiny: 0.861, hypoattenuation: 0.861, mass: 0.743, lobular: 0.279, 
+lesion C, score: 0.917 | 11 x 8 mm | adenoma: 0.984, nodule: 0.895, left adrenal gland: 0.876, mass: 0.684, circumscribed: 0.539, 
+lesion D, score: 0.884 | 5 x 4 mm | exophytic: 0.911, enhancing: 0.881, upper abdomen: 0.839, calcified: 0.815, mass: 0.814, lobular: 0.429, 
+lesion E, score: 0.761 | 14 x 11 mm | mass: 0.888, enhancing: 0.879, retroperitoneum: 0.865, upper abdomen: 0.822, calcified: 0.788, nodule: 0.704, lobular: 0.439, 
+lesion F, score: 0.659 | 8 x 6 mm | enhancing: 0.930, retroperitoneum: 0.922, upper abdomen: 0.895, mass: 0.870, calcified: 0.838, lobular: 0.309, 
+
+slice 66
+lesion A, score: 0.980 | 8 x 8 mm | cortex: 0.963, kidney: 0.962, solid: 0.960, cyst: 0.895, tiny: 0.857, hypoattenuation: 0.849, mass: 0.733, lobular: 0.285, 
+lesion B, score: 0.978 | 43 x 21 mm | mass: 0.854, conglomerate: 0.852, hypoattenuation: 0.843, large: 0.802, enlargement: 0.781, circumscribed: 0.776, lymph node: 0.745, liver: 0.743, lobular: 0.377, 
+lesion C, score: 0.860 | 11 x 8 mm | adenoma: 0.981, nodule: 0.877, left adrenal gland: 0.860, mass: 0.692, circumscribed: 0.527, 
+lesion D, score: 0.795 | 14 x 11 mm | mass: 0.868, retroperitoneum: 0.865, enhancing: 0.856, upper abdomen: 0.820, calcified: 0.754, nodule: 0.747, lobular: 0.409, 
+
+slice 67
+lesion A, score: 0.972 | 43 x 19 mm | conglomerate: 0.873, mass: 0.858, hypoattenuation: 0.819, large: 0.815, enlargement: 0.784, circumscribed: 0.763, liver: 0.740, lymph node: 0.731, lobular: 0.452, 
+lesion B, score: 0.958 | 8 x 8 mm | kidney: 0.964, solid: 0.961, cortex: 0.961, cyst: 0.891, tiny: 0.832, hypoattenuation: 0.824, mass: 0.726, lobular: 0.292, 
+lesion C, score: 0.862 | 11 x 7 mm | adenoma: 0.976, nodule: 0.860, adrenal gland: 0.858, mass: 0.659, circumscribed: 0.507, 
+lesion D, score: 0.733 | 16 x 11 mm | mass: 0.869, enhancing: 0.862, retroperitoneum: 0.859, upper abdomen: 0.815, calcified: 0.775, nodule: 0.734, lobular: 0.417, 
+
+slice 68
+lesion A, score: 0.986 | 41 x 19 mm | conglomerate: 0.870, mass: 0.853, hypoattenuation: 0.816, large: 0.811, enlargement: 0.791, circumscribed: 0.760, lymph node: 0.747, liver: 0.737, lobular: 0.443, 
+lesion B, score: 0.796 | 8 x 7 mm | kidney: 0.973, solid: 0.964, cortex: 0.963, cyst: 0.892, hypoattenuation: 0.809, mass: 0.729, lobular: 0.285, 
+lesion C, score: 0.785 | 11 x 7 mm | adenoma: 0.979, nodule: 0.875, left adrenal gland: 0.862, lymph node: 0.716, mass: 0.650, circumscribed: 0.516, 
+lesion D, score: 0.676 | 24 x 11 mm | mass: 0.884, retroperitoneum: 0.878, enhancing: 0.877, upper abdomen: 0.819, calcified: 0.799, nodule: 0.704, lobular: 0.382, 
+
+slice 69
+lesion A, score: 0.989 | 43 x 19 mm | conglomerate: 0.870, mass: 0.856, large: 0.815, hypoattenuation: 0.814, enlargement: 0.791, lymph node: 0.761, circumscribed: 0.758, liver: 0.726, lobular: 0.418, 
+lesion B, score: 0.846 | 19 x 13 mm | enhancing: 0.905, mass: 0.903, retroperitoneum: 0.903, calcified: 0.844, upper abdomen: 0.844, lobular: 0.399, 
+lesion C, score: 0.793 | 7 x 6 mm | enhancing: 0.979, liver: 0.918, hemangioma: 0.914, tiny: 0.910, calcified: 0.814, circumscribed: 0.776, mass: 0.674, 
+lesion D, score: 0.675 | 9 x 6 mm | adenoma: 0.983, nodule: 0.900, left adrenal gland: 0.867, lymph node: 0.768, mass: 0.614, 
+lesion E, score: 0.673 | 15 x 8 mm | lymph node: 0.922, abdomen: 0.872, enlargement: 0.777, mass: 0.639, circumscribed: 0.630, 
+
+slice 70
+lesion A, score: 0.988 | 44 x 19 mm | conglomerate: 0.865, mass: 0.859, large: 0.815, hypoattenuation: 0.813, enlargement: 0.793, lymph node: 0.780, circumscribed: 0.756, liver: 0.729, lobular: 0.392, 
+lesion B, score: 0.936 | 19 x 12 mm | retroperitoneum: 0.905, mass: 0.905, enhancing: 0.902, calcified: 0.850, upper abdomen: 0.842, lobular: 0.385, 
+lesion C, score: 0.906 | 16 x 8 mm | abdomen: 0.875, lymphadenopathy: 0.759, circumscribed: 0.622, mass: 0.601, 
+lesion D, score: 0.734 | 7 x 6 mm | enhancing: 0.981, tiny: 0.918, hemangioma: 0.916, liver: 0.916, calcified: 0.819, circumscribed: 0.771, mass: 0.678, 
+
+slice 71
+lesion A, score: 0.986 | 44 x 18 mm | conglomerate: 0.848, mass: 0.843, lymph node: 0.827, enlargement: 0.806, hypoattenuation: 0.802, circumscribed: 0.748, liver: 0.693, lobular: 0.322, 
+lesion B, score: 0.967 | 19 x 13 mm | enhancing: 0.904, retroperitoneum: 0.902, mass: 0.901, upper abdomen: 0.848, calcified: 0.843, lobular: 0.399, 
+lesion C, score: 0.930 | 16 x 9 mm | abdomen: 0.882, lymphadenopathy: 0.754, circumscribed: 0.661, 
+lesion D, score: 0.757 | 11 x 8 mm | hypoattenuation: 0.834, liver: 0.782, mass: 0.769, circumscribed: 0.674, peritoneum: 0.515, 
+lesion E, score: 0.691 | 6 x 5 mm | enhancing: 0.933, upper abdomen: 0.906, mass: 0.829, calcified: 0.823, retroperitoneum: 0.812, lobular: 0.252, 
+lesion F, score: 0.596 | 7 x 4 mm | enhancing: 0.935, calcified: 0.894, upper abdomen: 0.859, mass: 0.834, retroperitoneum: 0.823, lobular: 0.413, 
+
+slice 72
+lesion A, score: 0.985 | 43 x 17 mm | conglomerate: 0.866, lymph node: 0.841, mass: 0.838, enlargement: 0.810, hypoattenuation: 0.791, circumscribed: 0.730, liver: 0.662, lobular: 0.321, 
+lesion B, score: 0.982 | 19 x 12 mm | retroperitoneum: 0.905, enhancing: 0.902, mass: 0.897, upper abdomen: 0.861, calcified: 0.843, lobular: 0.417, 
+lesion C, score: 0.945 | 14 x 8 mm | lymph node: 0.943, prominent: 0.909, abdomen: 0.883, enlargement: 0.772, circumscribed: 0.656, 
+lesion D, score: 0.943 | 5 x 4 mm | enhancing: 0.943, calcified: 0.880, upper abdomen: 0.855, mass: 0.822, retroperitoneum: 0.807, lobular: 0.429, 
+lesion E, score: 0.636 | 6 x 5 mm | pancreas: 0.951, enhancing: 0.942, mass: 0.847, calcified: 0.842, lobular: 0.304, 
+
+slice 73
+lesion A, score: 0.984 | 43 x 18 mm | conglomerate: 0.838, lymph node: 0.834, mass: 0.831, enlargement: 0.795, hypoattenuation: 0.771, circumscribed: 0.742, liver: 0.660, lobular: 0.304, 
+lesion B, score: 0.974 | 20 x 12 mm | retroperitoneum: 0.903, enhancing: 0.897, mass: 0.895, upper abdomen: 0.860, calcified: 0.839, hypoattenuation: 0.651, lobular: 0.422, 
+lesion C, score: 0.965 | 5 x 4 mm | enhancing: 0.912, calcified: 0.851, upper abdomen: 0.851, retroperitoneum: 0.836, mass: 0.802, lobular: 0.415, 
+lesion D, score: 0.770 | 14 x 8 mm | lymph node: 0.940, prominent: 0.910, abdomen: 0.894, enlargement: 0.760, circumscribed: 0.675, 
+lesion E, score: 0.751 | 6 x 5 mm | pancreas: 0.954, enhancing: 0.951, calcified: 0.859, mass: 0.845, lobular: 0.287, 
+lesion F, score: 0.719 | 11 x 9 mm | upper abdomen: 0.860, hypoattenuation: 0.806, mass: 0.770, circumscribed: 0.645, lobular: 0.293, peritoneum: 0.266, 
+
+slice 74
+lesion A, score: 0.974 | 37 x 19 mm | conglomerate: 0.838, mass: 0.829, lymph node: 0.817, hypoattenuation: 0.783, enlargement: 0.779, circumscribed: 0.748, liver: 0.667, lobular: 0.296, 
+lesion B, score: 0.933 | 21 x 12 mm | retroperitoneum: 0.894, mass: 0.892, enhancing: 0.889, upper abdomen: 0.860, calcified: 0.822, hypoattenuation: 0.667, lobular: 0.448, 
+lesion C, score: 0.922 | 9 x 3 mm | enhancing: 0.917, upper abdomen: 0.873, calcified: 0.861, retroperitoneum: 0.848, mass: 0.819, lobular: 0.392, 
+lesion D, score: 0.887 | 11 x 8 mm | upper abdomen: 0.861, hypoattenuation: 0.779, mass: 0.738, circumscribed: 0.642, lobular: 0.268, 
+lesion E, score: 0.631 | 63 x 58 mm | upper abdomen: 0.885, hypoattenuation: 0.846, large: 0.820, conglomerate: 0.759, calcified: 0.706, lobular mass: 0.500, 
+lesion F, score: 0.630 | 6 x 5 mm | enhancing: 0.946, upper abdomen: 0.871, calcified: 0.863, retroperitoneum: 0.858, mass: 0.838, lobular: 0.327, 
+
+slice 75
+lesion A, score: 0.967 | 41 x 21 mm | porta Hepatis: 0.852, lymph node: 0.842, conglomerate: 0.839, mass: 0.831, enlargement: 0.790, hypoattenuation: 0.778, circumscribed: 0.759, lobular: 0.269, 
+lesion B, score: 0.936 | 10 x 8 mm | upper abdomen: 0.850, hypoattenuation: 0.772, mass: 0.722, circumscribed: 0.648, lobular: 0.269, 
+lesion C, score: 0.830 | 21 x 12 mm | enhancing: 0.908, mass: 0.900, retroperitoneum: 0.892, upper abdomen: 0.867, calcified: 0.840, lobular: 0.454, 
+lesion D, score: 0.639 | 66 x 58 mm | upper abdomen: 0.885, hypoattenuation: 0.855, large: 0.835, conglomerate: 0.800, retroperitoneum: 0.782, calcified: 0.737, lobular mass: 0.551, 
+lesion E, score: 0.588 | 5 x 4 mm | enhancing: 0.907, upper abdomen: 0.874, retroperitoneum: 0.863, calcified: 0.862, mass: 0.802, lobular: 0.434, 
+
+slice 76
+lesion A, score: 0.962 | 37 x 21 mm | porta Hepatis: 0.872, lymph node: 0.854, mass: 0.823, conglomerate: 0.813, hypoattenuation: 0.811, enlargement: 0.796, circumscribed: 0.749, 
+lesion B, score: 0.930 | 10 x 8 mm | kidney: 0.793, hypoattenuation: 0.774, mass: 0.726, circumscribed: 0.638, lobular: 0.306, 
+lesion C, score: 0.808 | 22 x 13 mm | enhancing: 0.912, mass: 0.908, retroperitoneum: 0.904, upper abdomen: 0.879, calcified: 0.849, lobular: 0.444, 
+lesion D, score: 0.646 | 66 x 58 mm | upper abdomen: 0.891, hypoattenuation: 0.851, large: 0.845, conglomerate: 0.820, retroperitoneum: 0.805, calcified: 0.756, lobular mass: 0.564, 
+lesion E, score: 0.551 | 7 x 3 mm | enhancing: 0.921, upper abdomen: 0.896, retroperitoneum: 0.883, calcified: 0.876, mass: 0.811, lobular: 0.418, 
+
+slice 77
+lesion A, score: 0.970 | 39 x 22 mm | porta Hepatis: 0.868, lymph node: 0.861, mass: 0.826, hypoattenuation: 0.814, conglomerate: 0.802, enlargement: 0.795, circumscribed: 0.758, 
+lesion B, score: 0.890 | 9 x 7 mm | kidney: 0.834, mass: 0.745, hypoattenuation: 0.728, circumscribed: 0.591, lobular: 0.352, 
+lesion C, score: 0.779 | 10 x 7 mm | indistinct: 0.852, hypoattenuation: 0.840, circumscribed: 0.774, liver: 0.758, mass: 0.743, 
+lesion D, score: 0.712 | 21 x 12 mm | retroperitoneum: 0.916, mass: 0.914, enhancing: 0.912, upper abdomen: 0.891, calcified: 0.846, hypoattenuation: 0.674, lobular: 0.440, 
+lesion E, score: 0.662 | 63 x 58 mm | upper abdomen: 0.895, large: 0.849, hypoattenuation: 0.847, conglomerate: 0.822, retroperitoneum: 0.811, calcified: 0.760, lobular mass: 0.569, 
+lesion F, score: 0.614 | 14 x 11 mm | kidney: 0.981, solid: 0.976, mass: 0.823, cyst: 0.812, enhancing: 0.750, lobular: 0.468, 
+lesion G, score: 0.549 | 22 x 8 mm | mass: 0.899, enhancing: 0.874, upper abdomen: 0.774, circumscribed: 0.540, lobular: 0.435, 
+
+slice 78
+lesion A, score: 0.977 | 35 x 23 mm | lymph node: 0.853, hypoattenuation: 0.828, mass: 0.819, conglomerate: 0.790, enlargement: 0.787, circumscribed: 0.748, liver: 0.647, 
+lesion B, score: 0.823 | 9 x 6 mm | kidney: 0.858, mass: 0.758, hypoattenuation: 0.711, circumscribed: 0.556, lobular: 0.379, 
+lesion C, score: 0.803 | 21 x 18 mm | mass: 0.900, enhancing: 0.879, kidney: 0.773, circumscribed: 0.517, lobular: 0.478, 
+lesion D, score: 0.779 | 63 x 54 mm | upper abdomen: 0.896, hypoattenuation: 0.839, large: 0.827, conglomerate: 0.806, retroperitoneum: 0.785, calcified: 0.717, lobular mass: 0.507, 
+lesion E, score: 0.536 | 18 x 11 mm | retroperitoneum: 0.913, mass: 0.907, enhancing: 0.895, upper abdomen: 0.871, calcified: 0.821, hypoattenuation: 0.688, lobular: 0.416, 
+lesion F, score: 0.507 | 16 x 11 mm | kidney: 0.981, solid: 0.975, mass: 0.824, cyst: 0.809, lobular: 0.451, 
+

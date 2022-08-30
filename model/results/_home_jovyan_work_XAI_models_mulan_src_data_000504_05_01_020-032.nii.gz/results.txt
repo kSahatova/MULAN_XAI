@@ -1,0 +1,69 @@
+slice 1
+lesion A, score: 0.859 | 9 x 8 mm | chest: 0.928, lymph node: 0.813, mass: 0.706, nodule: 0.705, 
+lesion B, score: 0.714 | 27 x 23 mm | anterior mediastinum: 0.922, mass: 0.884, superior mediastinum: 0.773, enhancing: 0.750, enlargement: 0.725, calcified: 0.710, hypoattenuation: 0.674, aorta: 0.485, 
+
+slice 2
+lesion A, score: 0.970 | 13 x 7 mm | chest: 0.957, mass: 0.848, nodule: 0.831, lymph node: 0.743, calcified: 0.741, 
+
+slice 3
+lesion A, score: 0.955 | 9 x 8 mm | chest: 0.976, nodule: 0.885, mass: 0.855, calcified: 0.771, lymph node: 0.735, 
+lesion B, score: 0.883 | 12 x 9 mm | oval: 0.914, right lung: 0.862, mass: 0.811, nodule: 0.768, 
+
+slice 4
+lesion A, score: 0.972 | 13 x 11 mm | oval: 0.950, nodule: 0.877, mass: 0.871, right lung: 0.862, perihilar: 0.444, lobular: 0.380, 
+lesion B, score: 0.868 | 8 x 7 mm | prominent: 0.941, pretracheal lymph node: 0.803, lymphadenopathy: 0.788, 
+lesion C, score: 0.692 | 17 x 8 mm | mediastinum: 0.814, lymphadenopathy: 0.777, mass: 0.699, 
+
+slice 5
+lesion A, score: 0.913 | 15 x 10 mm | lymph node: 0.930, mediastinum: 0.830, enlargement: 0.758, mass: 0.713, 
+lesion B, score: 0.880 | 11 x 9 mm | prominent: 0.906, superior mediastinum lymph node: 0.802, lymphadenopathy: 0.781, 
+
+slice 6
+lesion A, score: 0.937 | 13 x 10 mm | prominent: 0.900, superior mediastinum: 0.835, lymphadenopathy: 0.790, 
+lesion B, score: 0.876 | 12 x 9 mm | chest: 0.909, nodule: 0.835, mass: 0.771, lymph node: 0.767, 
+lesion C, score: 0.792 | 12 x 9 mm | lung: 0.804, nodule: 0.741, mass: 0.729, lobular: 0.272, 
+lesion D, score: 0.653 | 11 x 8 mm | lymph node: 0.912, mediastinum: 0.773, enlargement: 0.732, mass: 0.694, 
+
+slice 7
+lesion A, score: 0.997 | 18 x 13 mm | mediastinum lymph node: 0.865, lymphadenopathy: 0.853, superior mediastinum: 0.806, 
+lesion B, score: 0.544 | 7 x 7 mm | oval: 0.936, right lung: 0.839, nodule: 0.800, mass: 0.712, 
+
+slice 8
+lesion A, score: 0.992 | 17 x 13 mm | chest: 0.951, mass: 0.895, nodule: 0.863, enlargement: 0.784, lymph node: 0.744, lobular: 0.302, 
+lesion B, score: 0.988 | 19 x 13 mm | mediastinum lymph node: 0.873, lymphadenopathy: 0.844, superior mediastinum: 0.772, 
+lesion C, score: 0.930 | 15 x 11 mm | nodule: 0.915, mass: 0.842, right lung: 0.815, perihilar: 0.811, lobular: 0.660, 
+
+slice 9
+lesion A, score: 0.983 | 17 x 12 mm | chest: 0.951, mass: 0.851, nodule: 0.820, lymph node: 0.716, lobular: 0.296, 
+lesion B, score: 0.790 | 25 x 21 mm | lung: 0.822, lobular mass: 0.762, hypoattenuation: 0.676, perihilar: 0.489, 
+lesion C, score: 0.740 | 18 x 9 mm | prominent: 0.923, mediastinum lymph node: 0.907, lymphadenopathy: 0.848, superior mediastinum: 0.800, 
+lesion D, score: 0.708 | 10 x 7 mm | oval: 0.933, right lung: 0.863, nodule: 0.828, mass: 0.748, 
+lesion E, score: 0.627 | 9 x 7 mm | lymph node: 0.889, enlargement: 0.710, chest: 0.565, 
+lesion F, score: 0.508 | 17 x 14 mm | mediastinum: 0.773, lymphadenopathy: 0.765, mass: 0.664, 
+
+slice 10
+lesion A, score: 0.936 | 10 x 10 mm | subcarinal lymph node: 0.953, lymphadenopathy: 0.839, mass: 0.680, 
+lesion B, score: 0.916 | 28 x 18 mm | lobular mass: 0.872, right lung: 0.808, hypoattenuation: 0.742, perihilar: 0.680, 
+lesion C, score: 0.589 | 13 x 8 mm | chest: 0.870, mass: 0.785, nodule: 0.692, 
+lesion D, score: 0.501 | 17 x 15 mm | hilum lymph node: 0.886, lymphadenopathy: 0.809, 
+
+slice 11
+lesion A, score: 0.994 | 16 x 9 mm | subcarinal lymph node: 0.965, lymphadenopathy: 0.854, mass: 0.718, 
+lesion B, score: 0.979 | 27 x 18 mm | lobular mass: 0.877, right lung: 0.840, perihilar: 0.731, hypoattenuation: 0.702, nodule: 0.660, 
+lesion C, score: 0.753 | 40 x 39 mm | mass: 0.854, hypoattenuation: 0.778, chest: 0.646, aorta: 0.485, lobular: 0.324, 
+lesion D, score: 0.715 | 15 x 8 mm | lymphadenopathy: 0.861, hilum lymph node: 0.850, 
+lesion E, score: 0.543 | 13 x 11 mm | hilum: 0.915, mediastinum lymph node: 0.861, hypoattenuation: 0.765, lymphadenopathy: 0.755, mass: 0.739, perihilar: 0.667, 
+
+slice 12
+lesion A, score: 0.951 | 30 x 18 mm | right lung: 0.899, lobular mass: 0.894, large: 0.852, perihilar: 0.818, calcified: 0.732, hypoattenuation: 0.690, nodule: 0.682, 
+lesion B, score: 0.935 | 42 x 39 mm | mass: 0.879, hypoattenuation: 0.787, chest: 0.595, lobular: 0.410, 
+lesion C, score: 0.824 | 20 x 13 mm | chest: 0.929, hilum: 0.914, perihilar: 0.903, mass: 0.795, nodule: 0.720, lobular: 0.483, 
+lesion D, score: 0.526 | 23 x 14 mm | lung: 0.739, nodule: 0.684, perihilar: 0.595, lobular mass: 0.497, 
+
+slice 13
+lesion A, score: 0.942 | 23 x 16 mm | oval: 0.900, lung: 0.791, nodule: 0.728, hypoattenuation: 0.709, circumscribed: 0.659, lobular mass: 0.525, perihilar: 0.442, 
+lesion B, score: 0.938 | 43 x 41 mm | mass: 0.888, hypoattenuation: 0.786, chest: 0.583, circumscribed: 0.551, lobular: 0.426, 
+lesion C, score: 0.920 | 31 x 19 mm | lobular mass: 0.896, right lung: 0.866, large: 0.825, perihilar: 0.758, hypoattenuation: 0.743, 
+lesion D, score: 0.606 | 15 x 11 mm | hilum: 0.926, mediastinum: 0.841, lymphadenopathy: 0.757, hypoattenuation: 0.755, perihilar: 0.707, mass: 0.694, lobular: 0.266, 
+lesion E, score: 0.519 | 17 x 7 mm | mediastinum lymph node: 0.900, lymphadenopathy: 0.824, conglomerate: 0.813, mass: 0.813, hypoattenuation: 0.680, perihilar: 0.440, 
+

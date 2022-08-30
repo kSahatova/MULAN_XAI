@@ -1,0 +1,383 @@
+slice 1
+lesion A, score: 0.986 | 11 x 9 mm | superior mediastinum: 0.892, lymph node: 0.847, enlargement: 0.737, mass: 0.677, 
+
+slice 2
+lesion A, score: 0.940 | 11 x 9 mm | superior mediastinum: 0.838, lymph node: 0.806, mass: 0.721, 
+lesion B, score: 0.625 | 12 x 6 mm | superior mediastinum: 0.808, calcified: 0.781, mass: 0.718, aorta: 0.477, lobular: 0.291, 
+
+slice 3
+lesion A, score: 0.828 | 10 x 6 mm | superior mediastinum: 0.793, calcified: 0.782, mass: 0.714, aorta: 0.456, 
+lesion B, score: 0.750 | 10 x 7 mm | superior mediastinum: 0.842, lymph node: 0.832, mass: 0.719, 
+
+slice 4
+lesion A, score: 0.772 | 9 x 5 mm | superior mediastinum: 0.817, calcified: 0.773, lymph node: 0.720, mass: 0.715, 
+lesion B, score: 0.682 | 10 x 6 mm | superior mediastinum: 0.888, lymph node: 0.818, calcified: 0.720, mass: 0.696, 
+
+slice 5
+lesion A, score: 0.883 | 9 x 4 mm | superior mediastinum: 0.880, lymph node: 0.786, calcified: 0.776, mass: 0.627, 
+lesion B, score: 0.573 | 10 x 5 mm | superior mediastinum: 0.881, lymph node: 0.866, calcified: 0.700, mass: 0.661, 
+lesion C, score: 0.532 | 5 x 5 mm | superior mediastinum: 0.879, lymph node: 0.818, calcified: 0.745, 
+
+slice 6
+lesion A, score: 0.839 | 15 x 8 mm | superior mediastinum: 0.836, calcified: 0.731, enlargement: 0.725, mass: 0.649, aorta: 0.495, 
+lesion B, score: 0.706 | 4 x 3 mm | superior mediastinum: 0.899, lymph node: 0.846, calcified: 0.811, enhancing: 0.791, nodule: 0.672, 
+lesion C, score: 0.665 | 10 x 6 mm | superior mediastinum: 0.898, lymph node: 0.880, enlargement: 0.700, mass: 0.679, 
+lesion D, score: 0.617 | 14 x 12 mm | soft tissue: 0.951, mass: 0.934, chest: 0.911, calcified: 0.866, enhancing: 0.798, nodule: 0.690, 
+
+slice 7
+lesion A, score: 0.967 | 17 x 10 mm | superior mediastinum: 0.859, enlargement: 0.739, lymph node: 0.721, mass: 0.654, aorta: 0.451, 
+lesion B, score: 0.763 | 10 x 7 mm | lymph node: 0.890, superior mediastinum: 0.874, enlargement: 0.709, mass: 0.687, 
+lesion C, score: 0.756 | 14 x 13 mm | soft tissue: 0.955, mass: 0.938, chest: 0.905, calcified: 0.880, enhancing: 0.801, nodule: 0.678, 
+lesion D, score: 0.510 | 6 x 5 mm | axilla lymph node: 0.978, prominent: 0.946, enhancing: 0.868, lymphadenopathy: 0.752, 
+
+slice 8
+lesion A, score: 0.976 | 17 x 11 mm | superior mediastinum: 0.818, lymph node: 0.756, enlargement: 0.745, mass: 0.633, 
+lesion B, score: 0.890 | 10 x 6 mm | lymph node: 0.922, superior mediastinum: 0.889, enlargement: 0.735, mass: 0.665, 
+lesion C, score: 0.866 | 15 x 13 mm | soft tissue: 0.956, mass: 0.937, chest: 0.913, calcified: 0.887, enhancing: 0.804, nodule: 0.692, 
+
+slice 9
+lesion A, score: 0.988 | 17 x 8 mm | superior mediastinum: 0.860, lymph node: 0.795, enlargement: 0.761, 
+lesion B, score: 0.942 | 16 x 12 mm | soft tissue: 0.957, mass: 0.939, chest: 0.908, calcified: 0.897, enhancing: 0.815, nodule: 0.716, 
+lesion C, score: 0.837 | 9 x 6 mm | lymph node: 0.921, superior mediastinum: 0.861, enlargement: 0.711, mass: 0.638, 
+
+slice 10
+lesion A, score: 0.976 | 15 x 13 mm | soft tissue: 0.959, mass: 0.945, anterior mediastinum: 0.910, calcified: 0.903, enhancing: 0.837, nodule: 0.746, 
+lesion B, score: 0.954 | 17 x 8 mm | superior mediastinum: 0.845, lymph node: 0.765, enlargement: 0.747, 
+lesion C, score: 0.758 | 9 x 6 mm | lymph node: 0.930, superior mediastinum: 0.853, enlargement: 0.716, mass: 0.630, 
+
+slice 11
+lesion A, score: 0.973 | 15 x 13 mm | soft tissue: 0.962, mass: 0.952, anterior mediastinum: 0.929, calcified: 0.886, enhancing: 0.815, nodule: 0.712, 
+lesion B, score: 0.715 | 14 x 7 mm | superior mediastinum: 0.846, calcified: 0.773, lymph node: 0.730, enlargement: 0.729, mass: 0.610, 
+lesion C, score: 0.546 | 11 x 7 mm | superior mediastinum: 0.839, lymph node: 0.818, calcified: 0.787, mass: 0.745, enlargement: 0.700, nodule: 0.689, 
+lesion D, score: 0.515 | 8 x 5 mm | lymph node: 0.931, superior mediastinum: 0.829, enlargement: 0.723, mass: 0.644, 
+
+slice 12
+lesion A, score: 0.936 | 15 x 13 mm | soft tissue: 0.968, mass: 0.960, anterior mediastinum: 0.930, calcified: 0.872, enhancing: 0.792, nodule: 0.671, 
+lesion B, score: 0.734 | 5 x 3 mm | calcified: 0.974, chest: 0.960, enhancing: 0.912, soft tissue: 0.895, mass: 0.842, nodule: 0.837, 
+
+slice 13
+lesion A, score: 0.927 | 3 x 3 mm | right lung: 0.900, nodule: 0.843, tiny: 0.832, mass: 0.615, patchy: 0.486, perihilar: 0.428, lobular: 0.286, 
+lesion B, score: 0.922 | 13 x 12 mm | soft tissue: 0.963, mass: 0.957, anterior mediastinum: 0.944, calcified: 0.863, enhancing: 0.781, nodule: 0.674, hypoattenuation: 0.667, 
+lesion C, score: 0.913 | 5 x 3 mm | calcified: 0.975, chest: 0.966, enhancing: 0.916, soft tissue: 0.866, nodule: 0.855, mass: 0.844, 
+
+slice 14
+lesion A, score: 0.964 | 3 x 3 mm | nodule: 0.885, right lung: 0.877, tiny: 0.821, mass: 0.621, perihilar: 0.532, lobular: 0.349, patchy: 0.315, 
+lesion B, score: 0.656 | 13 x 13 mm | soft tissue: 0.964, anterior mediastinum: 0.955, mass: 0.955, calcified: 0.877, enhancing: 0.798, hypoattenuation: 0.670, 
+lesion C, score: 0.521 | 11 x 9 mm | mediastinum: 0.809, lymphadenopathy: 0.768, mass: 0.665, 
+lesion D, score: 0.519 | 6 x 4 mm | calcified: 0.975, chest: 0.964, enhancing: 0.902, soft tissue: 0.887, mass: 0.863, nodule: 0.788, 
+
+slice 15
+lesion A, score: 0.714 | 18 x 14 mm | chest: 0.974, soft tissue: 0.872, mass: 0.859, lymph node: 0.766, calcified: 0.760, nodule: 0.698, 
+
+slice 16
+lesion A, score: 0.909 | 18 x 14 mm | chest: 0.970, soft tissue: 0.865, mass: 0.853, lymph node: 0.796, calcified: 0.735, nodule: 0.721, 
+lesion B, score: 0.634 | 8 x 7 mm | mediastinum lymph node: 0.866, superior mediastinum: 0.846, lymphadenopathy: 0.824, mass: 0.635, 
+
+slice 17
+lesion A, score: 0.845 | 8 x 6 mm | lymphadenopathy: 0.820, superior mediastinum lymph node: 0.802, mass: 0.636, 
+lesion B, score: 0.626 | 18 x 12 mm | chest: 0.964, soft tissue: 0.870, mass: 0.845, lymph node: 0.792, calcified: 0.730, nodule: 0.707, 
+lesion C, score: 0.550 | 11 x 9 mm | superior mediastinum: 0.831, calcified: 0.768, enlargement: 0.732, lymph node: 0.722, mass: 0.717, 
+lesion D, score: 0.516 | 3 x 3 mm | lymph node: 0.941, prominent: 0.938, axilla: 0.927, enhancing: 0.869, nodule: 0.753, 
+
+slice 18
+lesion A, score: 0.884 | 12 x 9 mm | superior mediastinum: 0.842, calcified: 0.809, enlargement: 0.738, mass: 0.733, 
+lesion B, score: 0.841 | 9 x 6 mm | prominent: 0.907, superior mediastinum lymph node: 0.838, lymphadenopathy: 0.829, mass: 0.607, 
+lesion C, score: 0.649 | 12 x 11 mm | anterior mediastinum: 0.983, soft tissue: 0.946, mass: 0.920, calcified: 0.906, enhancing: 0.851, superior mediastinum: 0.806, nodule: 0.744, lymph node: 0.702, 
+
+slice 19
+lesion A, score: 0.899 | 9 x 7 mm | lymphadenopathy: 0.832, superior mediastinum lymph node: 0.822, mass: 0.620, 
+lesion B, score: 0.650 | 12 x 9 mm | superior mediastinum: 0.860, calcified: 0.825, enlargement: 0.758, mass: 0.756, enhancing: 0.753, lymph node: 0.718, 
+lesion C, score: 0.575 | 18 x 9 mm | anterior mediastinum: 0.984, soft tissue: 0.951, mass: 0.936, calcified: 0.926, enhancing: 0.858, superior mediastinum: 0.760, nodule: 0.719, 
+
+slice 20
+lesion A, score: 0.954 | 8 x 7 mm | prominent: 0.906, lymphadenopathy: 0.829, superior mediastinum lymph node: 0.821, 
+lesion B, score: 0.628 | 13 x 9 mm | superior mediastinum: 0.871, calcified: 0.859, mass: 0.790, enhancing: 0.770, enlargement: 0.756, 
+lesion C, score: 0.512 | 19 x 9 mm | aorticopulmonary window: 0.892, calcified: 0.809, enlargement: 0.780, enhancing: 0.779, lymph node: 0.727, mass: 0.704, 
+
+slice 21
+lesion A, score: 0.975 | 9 x 8 mm | prominent: 0.917, lymphadenopathy: 0.837, superior mediastinum lymph node: 0.821, 
+lesion B, score: 0.624 | 21 x 11 mm | aorticopulmonary window: 0.910, enlargement: 0.801, calcified: 0.795, lymph node: 0.758, mass: 0.746, 
+lesion C, score: 0.540 | 12 x 8 mm | calcified: 0.851, superior mediastinum: 0.824, mass: 0.765, enlargement: 0.756, enhancing: 0.756, lymph node: 0.703, 
+
+slice 22
+lesion A, score: 0.986 | 9 x 8 mm | lymphadenopathy: 0.838, superior mediastinum lymph node: 0.810, 
+lesion B, score: 0.919 | 13 x 8 mm | calcified: 0.814, superior mediastinum: 0.779, enlargement: 0.768, mass: 0.751, lymph node: 0.742, 
+lesion C, score: 0.719 | 15 x 9 mm | aorticopulmonary window: 0.889, enlargement: 0.803, lymph node: 0.802, mass: 0.693, 
+lesion D, score: 0.599 | 20 x 17 mm | anterior mediastinum: 0.971, mass: 0.955, soft tissue: 0.936, calcified: 0.909, enhancing: 0.833, 
+
+slice 23
+lesion A, score: 0.976 | 9 x 8 mm | prominent: 0.913, lymphadenopathy: 0.839, superior mediastinum lymph node: 0.805, 
+lesion B, score: 0.917 | 20 x 14 mm | anterior mediastinum: 0.963, mass: 0.953, soft tissue: 0.931, calcified: 0.887, enhancing: 0.823, enlargement: 0.713, 
+lesion C, score: 0.911 | 14 x 9 mm | calcified: 0.809, superior mediastinum: 0.799, mass: 0.760, enlargement: 0.753, lymph node: 0.730, 
+lesion D, score: 0.580 | 15 x 8 mm | aorticopulmonary window: 0.902, lymph node: 0.828, enlargement: 0.823, mass: 0.663, 
+
+slice 24
+lesion A, score: 0.964 | 16 x 14 mm | anterior mediastinum: 0.955, mass: 0.942, soft tissue: 0.919, calcified: 0.901, enhancing: 0.846, superior mediastinum: 0.770, enlargement: 0.712, 
+lesion B, score: 0.956 | 9 x 8 mm | prominent: 0.922, lymphadenopathy: 0.827, superior mediastinum lymph node: 0.802, 
+lesion C, score: 0.904 | 14 x 9 mm | superior mediastinum: 0.801, mass: 0.785, calcified: 0.769, enlargement: 0.749, lymph node: 0.737, 
+
+slice 25
+lesion A, score: 0.942 | 14 x 9 mm | superior mediastinum: 0.796, mass: 0.791, lymph node: 0.771, enlargement: 0.768, calcified: 0.708, 
+lesion B, score: 0.868 | 21 x 14 mm | anterior mediastinum: 0.972, mass: 0.948, soft tissue: 0.920, calcified: 0.915, enhancing: 0.838, 
+lesion C, score: 0.689 | 8 x 6 mm | prominent: 0.921, lymphadenopathy: 0.825, superior mediastinum lymph node: 0.816, 
+lesion D, score: 0.532 | 11 x 6 mm | mediastinum: 0.882, enlargement: 0.784, mass: 0.783, lymph node: 0.766, calcified: 0.718, lobular: 0.266, 
+
+slice 26
+lesion A, score: 0.895 | 13 x 8 mm | lymph node: 0.796, superior mediastinum: 0.796, mass: 0.783, enlargement: 0.775, calcified: 0.702, 
+lesion B, score: 0.770 | 8 x 6 mm | prominent: 0.922, lymphadenopathy: 0.826, superior mediastinum lymph node: 0.820, 
+lesion C, score: 0.603 | 36 x 17 mm | anterior mediastinum: 0.959, mass: 0.920, calcified: 0.848, superior mediastinum: 0.827, enlargement: 0.720, hypoattenuation: 0.669, aorta: 0.573, lobular: 0.350, 
+lesion D, score: 0.557 | 27 x 9 mm | aorticopulmonary window: 0.854, enlargement: 0.829, lymph node: 0.792, mass: 0.765, hypoattenuation: 0.674, 
+
+slice 27
+lesion A, score: 0.904 | 8 x 6 mm | prominent: 0.926, lymphadenopathy: 0.831, superior mediastinum lymph node: 0.821, 
+lesion B, score: 0.792 | 30 x 19 mm | anterior mediastinum: 0.972, mass: 0.930, soft tissue: 0.881, calcified: 0.849, hypoattenuation: 0.670, aorta: 0.533, lobular: 0.280, 
+lesion C, score: 0.520 | 13 x 7 mm | anterior mediastinum: 0.954, soft tissue: 0.920, mass: 0.869, lymph node: 0.809, enhancing: 0.758, calcified: 0.757, nodule: 0.666, 
+
+slice 28
+lesion A, score: 0.927 | 8 x 6 mm | prominent: 0.928, lymphadenopathy: 0.820, superior mediastinum lymph node: 0.819, 
+lesion B, score: 0.837 | 29 x 18 mm | anterior mediastinum: 0.968, mass: 0.923, soft tissue: 0.874, calcified: 0.812, superior mediastinum: 0.759, enlargement: 0.715, hypoattenuation: 0.689, aorta: 0.537, lobular: 0.258, 
+lesion C, score: 0.709 | 23 x 9 mm | aorticopulmonary window: 0.886, lymph node: 0.857, enlargement: 0.855, mass: 0.710, 
+lesion D, score: 0.619 | 12 x 7 mm | anterior mediastinum: 0.947, soft tissue: 0.918, mass: 0.865, lymph node: 0.792, enhancing: 0.768, calcified: 0.764, nodule: 0.655, 
+
+slice 29
+lesion A, score: 0.952 | 8 x 6 mm | prominent: 0.934, superior mediastinum lymph node: 0.813, lymphadenopathy: 0.807, 
+lesion B, score: 0.865 | 30 x 18 mm | anterior mediastinum: 0.963, mass: 0.916, soft tissue: 0.876, calcified: 0.790, enlargement: 0.722, hypoattenuation: 0.714, aorta: 0.494, 
+lesion C, score: 0.723 | 4 x 3 mm | calcified: 0.902, enhancing: 0.899, mediastinum: 0.769, lymph node: 0.763, nodule: 0.763, enlargement: 0.707, mass: 0.671, 
+lesion D, score: 0.679 | 23 x 10 mm | aorticopulmonary window: 0.905, enlargement: 0.861, lymph node: 0.848, mass: 0.719, 
+lesion E, score: 0.559 | 14 x 8 mm | anterior mediastinum: 0.931, soft tissue: 0.904, mass: 0.859, calcified: 0.784, enhancing: 0.763, lymph node: 0.742, 
+
+slice 30
+lesion A, score: 0.913 | 8 x 6 mm | prominent: 0.940, superior mediastinum lymph node: 0.821, lymphadenopathy: 0.803, 
+lesion B, score: 0.767 | 30 x 16 mm | anterior mediastinum: 0.960, mass: 0.910, soft tissue: 0.873, calcified: 0.807, enlargement: 0.716, hypoattenuation: 0.703, aorta: 0.465, 
+lesion C, score: 0.671 | 26 x 10 mm | aorticopulmonary window: 0.903, enlargement: 0.847, lymph node: 0.802, mass: 0.773, 
+lesion D, score: 0.625 | 5 x 3 mm | enhancing: 0.900, calcified: 0.889, lymph node: 0.764, superior mediastinum: 0.755, nodule: 0.753, enlargement: 0.727, mass: 0.706, 
+lesion E, score: 0.562 | 6 x 4 mm | calcified: 0.878, mediastinum: 0.831, enhancing: 0.821, mass: 0.775, nodule: 0.732, 
+lesion F, score: 0.504 | 13 x 11 mm | mediastinum: 0.851, mass: 0.836, calcified: 0.798, enhancing: 0.781, enlargement: 0.780, lymph node: 0.721, 
+
+slice 31
+lesion A, score: 0.830 | 30 x 14 mm | anterior mediastinum: 0.962, mass: 0.913, soft tissue: 0.879, calcified: 0.797, enlargement: 0.729, hypoattenuation: 0.704, 
+lesion B, score: 0.776 | 8 x 6 mm | prominent: 0.942, superior mediastinum lymph node: 0.834, lymphadenopathy: 0.801, 
+lesion C, score: 0.757 | 27 x 11 mm | aorticopulmonary window: 0.896, enlargement: 0.838, mass: 0.801, lymph node: 0.761, 
+lesion D, score: 0.730 | 9 x 4 mm | calcified: 0.885, mediastinum: 0.843, enhancing: 0.829, nodule: 0.775, mass: 0.736, lymph node: 0.733, 
+lesion E, score: 0.694 | 16 x 10 mm | anterior mediastinum: 0.960, soft tissue: 0.932, mass: 0.919, enhancing: 0.810, calcified: 0.806, lymph node: 0.723, nodule: 0.718, hypoattenuation: 0.679, 
+lesion F, score: 0.565 | 11 x 8 mm | anterior mediastinum: 0.932, soft tissue: 0.905, mass: 0.867, lymph node: 0.757, calcified: 0.732, 
+
+slice 32
+lesion A, score: 0.939 | 30 x 13 mm | aorticopulmonary window: 0.868, enlargement: 0.836, mass: 0.820, lymph node: 0.736, lobular: 0.274, 
+lesion B, score: 0.595 | 12 x 8 mm | anterior mediastinum: 0.955, mass: 0.894, soft tissue: 0.867, calcified: 0.757, enlargement: 0.718, hypoattenuation: 0.701, 
+lesion C, score: 0.572 | 7 x 4 mm | mediastinum: 0.877, calcified: 0.799, lymph node: 0.774, enhancing: 0.768, mass: 0.758, nodule: 0.728, 
+lesion D, score: 0.546 | 13 x 10 mm | anterior mediastinum: 0.921, soft tissue: 0.908, mass: 0.863, lymph node: 0.776, calcified: 0.716, 
+lesion E, score: 0.522 | 7 x 3 mm | anterior mediastinum: 0.948, soft tissue: 0.918, mass: 0.868, enhancing: 0.767, calcified: 0.764, lymph node: 0.764, nodule: 0.716, 
+
+slice 33
+lesion A, score: 0.912 | 31 x 14 mm | aorticopulmonary window: 0.882, enlargement: 0.831, mass: 0.798, lymph node: 0.742, 
+lesion B, score: 0.692 | 14 x 11 mm | anterior mediastinum: 0.916, soft tissue: 0.909, mass: 0.852, lymph node: 0.762, calcified: 0.761, 
+
+slice 34
+lesion A, score: 0.906 | 32 x 15 mm | aorticopulmonary window: 0.901, enlargement: 0.846, mass: 0.816, lymph node: 0.735, lobular: 0.258, 
+lesion B, score: 0.508 | 29 x 13 mm | anterior mediastinum: 0.941, mass: 0.905, soft tissue: 0.862, enlargement: 0.735, calcified: 0.723, hypoattenuation: 0.710, aorta: 0.463, lobular: 0.286, 
+
+slice 35
+lesion A, score: 0.961 | 32 x 18 mm | aorticopulmonary window: 0.873, enlargement: 0.852, mass: 0.842, large: 0.802, lymph node: 0.712, lobular: 0.297, 
+lesion B, score: 0.660 | 8 x 6 mm | chest: 0.939, nodule: 0.846, lymph node: 0.807, calcified: 0.753, mass: 0.738, 
+
+slice 36
+lesion A, score: 0.968 | 35 x 19 mm | aorticopulmonary window: 0.869, mass: 0.868, enlargement: 0.850, large: 0.821, calcified: 0.741, lobular: 0.380, 
+lesion B, score: 0.774 | 8 x 6 mm | chest: 0.937, nodule: 0.836, lymph node: 0.791, calcified: 0.755, mass: 0.736, 
+lesion C, score: 0.700 | 11 x 7 mm | soft tissue: 0.915, mass: 0.890, mediastinum: 0.863, lymph node: 0.840, enlargement: 0.727, nodule: 0.665, 
+lesion D, score: 0.604 | 17 x 11 mm | mass: 0.893, soft tissue: 0.852, mediastinum: 0.815, calcified: 0.769, enlargement: 0.746, hypoattenuation: 0.680, lobular: 0.298, 
+
+slice 37
+lesion A, score: 0.961 | 36 x 19 mm | aorticopulmonary window: 0.888, mass: 0.882, enlargement: 0.846, large: 0.820, calcified: 0.791, lobular: 0.421, 
+lesion B, score: 0.671 | 15 x 12 mm | mass: 0.881, soft tissue: 0.851, mediastinum: 0.811, calcified: 0.758, enlargement: 0.752, lymph node: 0.703, lobular: 0.266, 
+lesion C, score: 0.624 | 14 x 8 mm | axilla lymph node: 0.967, enlargement: 0.785, enhancing: 0.770, 
+lesion D, score: 0.622 | 8 x 6 mm | chest: 0.938, nodule: 0.840, lymph node: 0.790, calcified: 0.760, mass: 0.715, 
+lesion E, score: 0.611 | 9 x 7 mm | mediastinum: 0.923, lymph node: 0.878, soft tissue: 0.876, mass: 0.794, nodule: 0.716, enlargement: 0.704, 
+lesion F, score: 0.573 | 11 x 6 mm | soft tissue: 0.908, mass: 0.886, mediastinum: 0.873, lymph node: 0.830, enlargement: 0.720, nodule: 0.659, 
+
+slice 38
+lesion A, score: 0.956 | 38 x 21 mm | aorticopulmonary window: 0.920, mass: 0.873, enlargement: 0.862, large: 0.815, calcified: 0.789, lobular: 0.380, 
+lesion B, score: 0.759 | 19 x 13 mm | mass: 0.877, mediastinum: 0.827, enlargement: 0.763, lymph node: 0.712, calcified: 0.707, hypoattenuation: 0.656, lobular: 0.291, 
+lesion C, score: 0.670 | 14 x 9 mm | axilla lymph node: 0.964, enlargement: 0.774, enhancing: 0.771, 
+lesion D, score: 0.587 | 7 x 6 mm | superior mediastinum: 0.855, lymphadenopathy: 0.759, nodule: 0.700, mass: 0.649, 
+lesion E, score: 0.560 | 11 x 8 mm | mediastinum: 0.913, soft tissue: 0.889, lymph node: 0.848, mass: 0.824, enhancing: 0.757, calcified: 0.737, nodule: 0.708, 
+
+slice 39
+lesion A, score: 0.945 | 43 x 20 mm | aorticopulmonary window: 0.941, enlargement: 0.881, mass: 0.865, large: 0.818, calcified: 0.762, lymph node: 0.736, hypoattenuation: 0.652, lobular: 0.356, 
+lesion B, score: 0.893 | 20 x 14 mm | mass: 0.875, mediastinum: 0.848, enlargement: 0.784, lymph node: 0.732, calcified: 0.705, hypoattenuation: 0.652, 
+lesion C, score: 0.759 | 7 x 6 mm | superior mediastinum: 0.861, mediastinum lymph node: 0.853, lymphadenopathy: 0.754, nodule: 0.693, mass: 0.601, 
+lesion D, score: 0.683 | 13 x 9 mm | axilla lymph node: 0.958, enhancing: 0.785, enlargement: 0.765, 
+
+slice 40
+lesion A, score: 0.957 | 42 x 22 mm | aorticopulmonary window: 0.943, enlargement: 0.879, mass: 0.856, large: 0.817, calcified: 0.752, lymph node: 0.740, hypoattenuation: 0.654, lobular: 0.353, 
+lesion B, score: 0.782 | 8 x 6 mm | axilla lymph node: 0.965, enhancing: 0.848, enlargement: 0.838, 
+lesion C, score: 0.756 | 11 x 8 mm | axilla: 0.982, lymph node: 0.952, enhancing: 0.799, enlargement: 0.753, 
+lesion D, score: 0.723 | 19 x 12 mm | mediastinum: 0.856, mass: 0.849, enlargement: 0.777, lymph node: 0.752, calcified: 0.710, hypoattenuation: 0.652, 
+lesion E, score: 0.558 | 7 x 6 mm | superior mediastinum: 0.842, lymphadenopathy: 0.754, nodule: 0.656, 
+
+slice 41
+lesion A, score: 0.964 | 44 x 21 mm | aorticopulmonary window: 0.939, enlargement: 0.875, mass: 0.858, large: 0.814, lymph node: 0.737, calcified: 0.724, hypoattenuation: 0.682, lobular: 0.391, 
+lesion B, score: 0.813 | 8 x 6 mm | axilla lymph node: 0.958, enhancing: 0.844, enlargement: 0.838, 
+lesion C, score: 0.749 | 11 x 7 mm | axilla: 0.976, lymph node: 0.945, enhancing: 0.798, enlargement: 0.736, 
+
+slice 42
+lesion A, score: 0.976 | 45 x 21 mm | aorticopulmonary window: 0.926, enlargement: 0.879, mass: 0.866, large: 0.818, lymph node: 0.736, calcified: 0.716, hypoattenuation: 0.696, lobular: 0.432, 
+lesion B, score: 0.801 | 8 x 6 mm | axilla: 0.987, lymph node: 0.959, enhancing: 0.839, enlargement: 0.829, 
+
+slice 43
+lesion A, score: 0.978 | 43 x 22 mm | aorticopulmonary window: 0.916, enlargement: 0.884, large: 0.835, calcified: 0.727, lymph node: 0.726, hypoattenuation: 0.718, lobular mass: 0.457, 
+
+slice 44
+lesion A, score: 0.980 | 43 x 23 mm | aorticopulmonary window: 0.901, enlargement: 0.885, large: 0.840, conglomerate: 0.752, hypoattenuation: 0.749, lymph node: 0.733, calcified: 0.716, lobular mass: 0.539, 
+lesion B, score: 0.674 | 18 x 13 mm | hilum: 0.916, lymph node: 0.867, aorticopulmonary window: 0.857, enlargement: 0.845, mass: 0.685, perihilar: 0.496, 
+
+slice 45
+lesion A, score: 0.983 | 38 x 20 mm | aorticopulmonary window: 0.916, enlargement: 0.881, large: 0.812, hypoattenuation: 0.803, lymph node: 0.733, lobular mass: 0.528, 
+lesion B, score: 0.620 | 20 x 16 mm | mass: 0.922, soft tissue: 0.910, mediastinum: 0.857, lymph node: 0.746, enlargement: 0.723, 
+lesion C, score: 0.611 | 17 x 14 mm | hilum: 0.908, lymph node: 0.868, mediastinum: 0.848, enlargement: 0.838, mass: 0.668, 
+
+slice 46
+lesion A, score: 0.981 | 34 x 18 mm | aorticopulmonary window: 0.921, enlargement: 0.871, hypoattenuation: 0.821, lymph node: 0.730, lobular mass: 0.451, 
+lesion B, score: 0.665 | 15 x 12 mm | hilum: 0.914, lymph node: 0.861, mediastinum: 0.846, enlargement: 0.816, mass: 0.666, perihilar: 0.440, 
+lesion C, score: 0.663 | 18 x 15 mm | mass: 0.919, soft tissue: 0.910, mediastinum: 0.850, lymph node: 0.770, enlargement: 0.724, 
+lesion D, score: 0.582 | 24 x 14 mm | mass: 0.846, mediastinum: 0.819, enlargement: 0.806, lymph node: 0.763, calcified: 0.722, hypoattenuation: 0.654, lobular: 0.398, 
+
+slice 47
+lesion A, score: 0.968 | 32 x 17 mm | aorticopulmonary window: 0.912, enlargement: 0.855, mass: 0.837, hypoattenuation: 0.824, lymph node: 0.729, lobular: 0.464, 
+lesion B, score: 0.797 | 19 x 16 mm | mass: 0.926, soft tissue: 0.915, mediastinum: 0.844, lymph node: 0.746, enlargement: 0.719, 
+lesion C, score: 0.596 | 10 x 6 mm | mediastinum: 0.900, lymph node: 0.856, mass: 0.793, enlargement: 0.740, 
+
+slice 48
+lesion A, score: 0.946 | 28 x 18 mm | aorticopulmonary window: 0.904, enlargement: 0.859, mass: 0.838, hypoattenuation: 0.822, lymph node: 0.745, lobular: 0.454, 
+lesion B, score: 0.929 | 21 x 15 mm | mass: 0.937, soft tissue: 0.929, anterior mediastinum: 0.926, lymph node: 0.732, enlargement: 0.731, hypoattenuation: 0.651, 
+
+slice 49
+lesion A, score: 0.973 | 21 x 15 mm | mass: 0.946, soft tissue: 0.936, anterior mediastinum: 0.935, enlargement: 0.745, lymph node: 0.742, hypoattenuation: 0.660, 
+lesion B, score: 0.884 | 28 x 17 mm | aorticopulmonary window: 0.898, enlargement: 0.847, mass: 0.828, hypoattenuation: 0.798, lymph node: 0.734, lobular: 0.475, 
+
+slice 50
+lesion A, score: 0.981 | 21 x 17 mm | mass: 0.954, soft tissue: 0.943, anterior mediastinum: 0.941, enlargement: 0.734, hypoattenuation: 0.682, 
+lesion B, score: 0.851 | 27 x 17 mm | aorticopulmonary window: 0.897, enlargement: 0.835, mass: 0.807, hypoattenuation: 0.791, lymph node: 0.732, lobular: 0.457, 
+
+slice 51
+lesion A, score: 0.983 | 21 x 17 mm | mass: 0.951, soft tissue: 0.943, anterior mediastinum: 0.938, enlargement: 0.732, hypoattenuation: 0.699, 
+lesion B, score: 0.799 | 26 x 16 mm | aorticopulmonary window: 0.891, enlargement: 0.820, hypoattenuation: 0.795, mass: 0.771, lymph node: 0.727, lobular: 0.422, 
+
+slice 52
+lesion A, score: 0.968 | 20 x 15 mm | mass: 0.943, soft tissue: 0.940, anterior mediastinum: 0.926, enlargement: 0.713, lymph node: 0.707, hypoattenuation: 0.692, 
+lesion B, score: 0.801 | 24 x 14 mm | aorticopulmonary window: 0.889, enlargement: 0.819, hypoattenuation: 0.798, mass: 0.759, lymph node: 0.733, lobular: 0.389, 
+lesion C, score: 0.746 | 12 x 9 mm | right hilum lymph node: 0.974, prominent: 0.912, lymphadenopathy: 0.876, mass: 0.618, 
+
+slice 53
+lesion A, score: 0.912 | 23 x 15 mm | aorticopulmonary window: 0.865, enlargement: 0.813, hypoattenuation: 0.807, mass: 0.762, lymph node: 0.713, lobular: 0.387, 
+lesion B, score: 0.906 | 19 x 15 mm | soft tissue: 0.940, mass: 0.933, anterior mediastinum: 0.932, lymph node: 0.738, hypoattenuation: 0.700, 
+lesion C, score: 0.857 | 11 x 8 mm | right hilum lymph node: 0.981, prominent: 0.927, lymphadenopathy: 0.877, 
+
+slice 54
+lesion A, score: 0.963 | 13 x 8 mm | right hilum lymph node: 0.986, prominent: 0.924, lymphadenopathy: 0.885, 
+lesion B, score: 0.962 | 23 x 14 mm | enlargement: 0.832, hypoattenuation: 0.823, mediastinum: 0.803, mass: 0.768, lymph node: 0.748, lobular: 0.362, 
+
+slice 55
+lesion A, score: 0.984 | 14 x 8 mm | right hilum lymph node: 0.989, prominent: 0.934, lymphadenopathy: 0.898, 
+lesion B, score: 0.973 | 20 x 13 mm | enlargement: 0.856, mediastinum: 0.830, hypoattenuation: 0.810, lymph node: 0.788, mass: 0.772, lobular: 0.303, 
+
+slice 56
+lesion A, score: 0.990 | 11 x 8 mm | right hilum lymph node: 0.991, prominent: 0.927, lymphadenopathy: 0.909, hypoattenuation: 0.694, 
+lesion B, score: 0.973 | 19 x 13 mm | aorticopulmonary window: 0.868, enlargement: 0.862, lymph node: 0.811, hypoattenuation: 0.793, mass: 0.762, lobular: 0.260, 
+
+slice 57
+lesion A, score: 0.976 | 19 x 13 mm | aorticopulmonary window: 0.903, enlargement: 0.866, lymph node: 0.828, hypoattenuation: 0.779, mass: 0.740, 
+lesion B, score: 0.969 | 12 x 7 mm | right hilum lymph node: 0.992, prominent: 0.922, lymphadenopathy: 0.911, hypoattenuation: 0.721, 
+
+slice 58
+lesion A, score: 0.973 | 20 x 12 mm | aorticopulmonary window: 0.897, enlargement: 0.846, lymph node: 0.813, hypoattenuation: 0.782, mass: 0.724, lobular: 0.255, 
+lesion B, score: 0.886 | 12 x 7 mm | right hilum lymph node: 0.991, prominent: 0.920, lymphadenopathy: 0.901, calcified: 0.717, hypoattenuation: 0.688, 
+lesion C, score: 0.535 | 10 x 8 mm | mediastinum lymph node: 0.886, lymphadenopathy: 0.807, mass: 0.693, 
+
+slice 59
+lesion A, score: 0.976 | 19 x 11 mm | aorticopulmonary window: 0.854, enlargement: 0.815, lymph node: 0.810, hypoattenuation: 0.770, mass: 0.680, lobular: 0.264, 
+lesion B, score: 0.736 | 12 x 7 mm | mediastinum lymph node: 0.886, lymphadenopathy: 0.818, mass: 0.669, 
+lesion C, score: 0.522 | 11 x 5 mm | right hilum lymph node: 0.989, prominent: 0.922, lymphadenopathy: 0.892, calcified: 0.787, mass: 0.614, 
+
+slice 60
+lesion A, score: 0.973 | 19 x 11 mm | lymph node: 0.792, hypoattenuation: 0.788, mediastinum: 0.783, enlargement: 0.780, mass: 0.653, lobular: 0.280, 
+lesion B, score: 0.876 | 13 x 7 mm | mediastinum lymph node: 0.900, lymphadenopathy: 0.830, mass: 0.678, 
+
+slice 61
+lesion A, score: 0.954 | 21 x 11 mm | chest: 0.822, hypoattenuation: 0.770, lymph node: 0.759, enlargement: 0.752, mass: 0.637, lobular: 0.303, 
+lesion B, score: 0.947 | 14 x 7 mm | mediastinum lymph node: 0.911, lymphadenopathy: 0.844, mass: 0.680, 
+lesion C, score: 0.693 | 9 x 5 mm | chest: 0.929, nodule: 0.844, lymph node: 0.785, calcified: 0.725, mass: 0.719, 
+
+slice 62
+lesion A, score: 0.942 | 14 x 7 mm | subcarinal lymph node: 0.953, lymphadenopathy: 0.846, mass: 0.712, 
+lesion B, score: 0.904 | 23 x 12 mm | chest: 0.827, hypoattenuation: 0.756, enlargement: 0.752, lymph node: 0.743, mass: 0.645, lobular: 0.316, 
+lesion C, score: 0.620 | 8 x 6 mm | prominent: 0.914, mediastinum lymph node: 0.863, enlargement: 0.744, mass: 0.660, 
+
+slice 63
+lesion A, score: 0.969 | 13 x 7 mm | subcarinal lymph node: 0.957, lymphadenopathy: 0.851, mass: 0.723, 
+lesion B, score: 0.689 | 23 x 11 mm | chest: 0.828, hypoattenuation: 0.772, enlargement: 0.746, lymph node: 0.715, mass: 0.684, lobular: 0.404, 
+lesion C, score: 0.507 | 8 x 5 mm | chest: 0.924, nodule: 0.828, lymph node: 0.743, calcified: 0.725, mass: 0.722, 
+
+slice 64
+lesion A, score: 0.966 | 16 x 7 mm | subcarinal lymph node: 0.963, lymphadenopathy: 0.865, mass: 0.752, 
+lesion B, score: 0.834 | 21 x 10 mm | chest: 0.847, hypoattenuation: 0.759, enlargement: 0.749, lymph node: 0.742, mass: 0.667, lobular: 0.346, 
+lesion C, score: 0.640 | 8 x 4 mm | chest: 0.931, nodule: 0.826, lymph node: 0.768, calcified: 0.720, mass: 0.706, 
+lesion D, score: 0.619 | 8 x 6 mm | prominent: 0.923, mediastinum lymph node: 0.884, lymphadenopathy: 0.752, mass: 0.665, 
+
+slice 65
+lesion A, score: 0.971 | 18 x 7 mm | subcarinal lymph node: 0.966, lymphadenopathy: 0.863, mass: 0.754, 
+lesion B, score: 0.606 | 11 x 7 mm | lymph node: 0.852, mediastinum: 0.761, enlargement: 0.746, hypoattenuation: 0.685, mass: 0.608, 
+lesion C, score: 0.549 | 8 x 6 mm | perihilar: 0.953, left hilum lymph node: 0.919, nodule: 0.778, calcified: 0.751, lobular: 0.299, 
+lesion D, score: 0.535 | 8 x 6 mm | prominent: 0.923, mediastinum lymph node: 0.891, lymphadenopathy: 0.752, mass: 0.678, 
+
+slice 66
+lesion A, score: 0.970 | 19 x 6 mm | subcarinal lymph node: 0.970, lymphadenopathy: 0.864, mass: 0.766, 
+lesion B, score: 0.528 | 9 x 7 mm | lymph node: 0.877, chest: 0.853, enlargement: 0.728, hypoattenuation: 0.674, 
+
+slice 67
+lesion A, score: 0.930 | 19 x 6 mm | subcarinal lymph node: 0.973, lymphadenopathy: 0.864, mass: 0.774, 
+lesion B, score: 0.755 | 9 x 7 mm | lymph node: 0.895, chest: 0.863, nodule: 0.689, 
+
+slice 68
+lesion A, score: 0.921 | 22 x 6 mm | subcarinal lymph node: 0.974, lymphadenopathy: 0.869, mass: 0.766, 
+
+slice 69
+lesion A, score: 0.898 | 22 x 4 mm | subcarinal lymph node: 0.971, lymphadenopathy: 0.858, mass: 0.760, 
+
+slice 70
+lesion A, score: 0.866 | 23 x 4 mm | subcarinal lymph node: 0.969, lymphadenopathy: 0.849, mass: 0.750, 
+
+slice 71
+lesion A, score: 0.912 | 24 x 5 mm | subcarinal lymph node: 0.966, lymphadenopathy: 0.855, mass: 0.735, 
+
+slice 72
+lesion A, score: 0.835 | 26 x 5 mm | subcarinal lymph node: 0.960, lymphadenopathy: 0.848, mass: 0.739, 
+
+slice 73
+lesion A, score: 0.777 | 17 x 5 mm | mediastinum lymph node: 0.902, lymphadenopathy: 0.839, mass: 0.724, 
+lesion B, score: 0.581 | 16 x 11 mm | subcutaneous: 0.993, body wall: 0.964, soft tissue: 0.931, chest: 0.815, mass: 0.764, nodule: 0.720, calcified: 0.705, 
+
+slice 74
+lesion A, score: 0.679 | 17 x 6 mm | mediastinum lymph node: 0.881, lymphadenopathy: 0.808, mass: 0.727, hypoattenuation: 0.654, 
+lesion B, score: 0.629 | 5 x 2 mm | perihilar: 0.930, left hilum lymph node: 0.913, lymphadenopathy: 0.765, hypoattenuation: 0.714, mass: 0.648, 
+
+slice 75
+lesion A, score: 0.922 | 7 x 6 mm | hilum: 0.993, perihilar: 0.909, mediastinum lymph node: 0.883, lymphadenopathy: 0.772, hypoattenuation: 0.685, nodule: 0.671, mass: 0.613, 
+
+slice 76
+lesion A, score: 0.980 | 7 x 7 mm | hilum: 0.994, perihilar: 0.923, mediastinum lymph node: 0.889, lymphadenopathy: 0.788, hypoattenuation: 0.706, nodule: 0.680, mass: 0.600, 
+
+slice 77
+lesion A, score: 0.979 | 8 x 7 mm | hilum: 0.994, perihilar: 0.919, mediastinum lymph node: 0.885, lymphadenopathy: 0.800, hypoattenuation: 0.726, 
+
+slice 78
+lesion A, score: 0.976 | 8 x 6 mm | hilum: 0.995, perihilar: 0.927, mediastinum lymph node: 0.901, lymphadenopathy: 0.824, hypoattenuation: 0.731, nodule: 0.653, 
+
+slice 79
+lesion A, score: 0.818 | 7 x 6 mm | perihilar: 0.936, hilum lymph node: 0.852, lymphadenopathy: 0.839, hypoattenuation: 0.742, mass: 0.626, 
+
+slice 80
+lesion A, score: 0.636 | 7 x 5 mm | perihilar: 0.909, left hilum lymph node: 0.900, lymphadenopathy: 0.820, calcified: 0.737, hypoattenuation: 0.719, mass: 0.618, 
+
+slice 81
+

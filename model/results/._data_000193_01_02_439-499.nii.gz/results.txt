@@ -1,0 +1,274 @@
+slice 1
+lesion A, score: 0.731 | 11 x 10 mm | hypoattenuation: 0.893, upper abdomen: 0.891, mass: 0.835, circumscribed: 0.710, peritoneum: 0.505, 
+
+slice 2
+lesion A, score: 0.595 | 11 x 11 mm | hypoattenuation: 0.892, upper abdomen: 0.887, mass: 0.850, circumscribed: 0.749, peritoneum: 0.486, 
+
+slice 3
+
+slice 4
+
+slice 5
+lesion A, score: 0.522 | 6 x 6 mm | abdomen: 0.827, enhancing: 0.804, calcified: 0.776, mass: 0.738, hypoattenuation: 0.702, 
+
+slice 6
+lesion A, score: 0.782 | 19 x 15 mm | psoas muscle: 0.972, enlargement: 0.839, mass: 0.766, hypoattenuation: 0.708, 
+lesion B, score: 0.755 | 16 x 9 mm | lymph node: 0.861, enlargement: 0.821, 
+
+slice 7
+lesion A, score: 0.736 | 8 x 7 mm | pelvis: 0.880, lymph node: 0.845, enlargement: 0.790, hypoattenuation: 0.691, 
+lesion B, score: 0.669 | 20 x 14 mm | psoas muscle: 0.974, enlargement: 0.843, mass: 0.761, lymph node: 0.709, hypoattenuation: 0.702, 
+
+slice 8
+lesion A, score: 0.812 | 8 x 8 mm | pelvis: 0.882, lymph node: 0.847, enlargement: 0.797, hypoattenuation: 0.692, 
+
+slice 9
+lesion A, score: 0.786 | 10 x 8 mm | pelvis: 0.887, lymph node: 0.854, enlargement: 0.814, hypoattenuation: 0.699, 
+
+slice 10
+lesion A, score: 0.545 | 13 x 11 mm | hypoattenuation: 0.862, mass: 0.858, upper abdomen: 0.842, circumscribed: 0.835, peritoneum: 0.437, 
+
+slice 11
+
+slice 12
+
+slice 13
+
+slice 14
+
+slice 15
+lesion A, score: 0.820 | 10 x 9 mm | enhancing: 0.822, enlargement: 0.766, nodule: 0.758, mass: 0.727, lobular: 0.358, 
+
+slice 16
+lesion A, score: 0.890 | 9 x 9 mm | enhancing: 0.836, enlargement: 0.767, nodule: 0.761, mass: 0.725, lobular: 0.361, 
+
+slice 17
+lesion A, score: 0.626 | 10 x 8 mm | enhancing: 0.823, enlargement: 0.780, nodule: 0.752, mass: 0.733, lobular: 0.360, 
+lesion B, score: 0.538 | 24 x 14 mm | calcified: 0.951, cortex: 0.927, pelvis: 0.920, sclerotic: 0.910, enhancing: 0.867, soft tissue: 0.857, mass: 0.698, circumscribed: 0.657, patchy: 0.590, lobular: 0.348, 
+
+slice 18
+lesion A, score: 0.815 | 24 x 14 mm | calcified: 0.948, sclerotic: 0.926, pelvis: 0.919, cortex: 0.916, enhancing: 0.873, mass: 0.684, circumscribed: 0.631, patchy: 0.575, lobular: 0.344, 
+
+slice 19
+lesion A, score: 0.942 | 24 x 15 mm | calcified: 0.960, sclerotic: 0.954, pelvis: 0.919, enhancing: 0.896, mass: 0.694, circumscribed: 0.588, patchy: 0.543, lobular: 0.354, 
+lesion B, score: 0.550 | 7 x 6 mm | prominent: 0.907, pelvis: 0.871, lymph node: 0.866, tiny: 0.850, enlargement: 0.755, nodule: 0.663, 
+
+slice 20
+lesion A, score: 0.959 | 24 x 15 mm | calcified: 0.961, sclerotic: 0.957, pelvis: 0.917, enhancing: 0.902, mass: 0.683, circumscribed: 0.591, patchy: 0.549, lobular: 0.343, 
+lesion B, score: 0.609 | 8 x 6 mm | prominent: 0.913, pelvis: 0.871, lymph node: 0.862, tiny: 0.840, enlargement: 0.750, nodule: 0.658, 
+lesion C, score: 0.592 | 11 x 6 mm | sclerotic: 0.977, calcified: 0.967, enhancing: 0.930, pelvis: 0.916, circumscribed: 0.583, patchy: 0.465, lobular: 0.277, 
+
+slice 21
+lesion A, score: 0.970 | 25 x 15 mm | calcified: 0.969, sclerotic: 0.963, pelvis: 0.920, enhancing: 0.918, mass: 0.699, circumscribed: 0.566, patchy: 0.534, lobular: 0.374, 
+lesion B, score: 0.810 | 12 x 7 mm | sclerotic: 0.983, calcified: 0.976, enhancing: 0.944, pelvis: 0.916, cancer: 0.908, circumscribed: 0.513, patchy: 0.421, lobular: 0.289, 
+lesion C, score: 0.774 | 8 x 6 mm | prominent: 0.918, pelvis: 0.880, lymph node: 0.862, tiny: 0.822, enlargement: 0.752, 
+
+slice 22
+lesion A, score: 0.964 | 26 x 15 mm | calcified: 0.975, sclerotic: 0.969, enhancing: 0.927, pelvis: 0.924, cancer: 0.900, mass: 0.713, circumscribed: 0.537, patchy: 0.514, lobular: 0.415, 
+lesion B, score: 0.866 | 11 x 7 mm | sclerotic: 0.987, calcified: 0.982, enhancing: 0.956, pelvis: 0.915, cancer: 0.910, mass: 0.605, patchy: 0.394, lobular: 0.325, 
+lesion C, score: 0.503 | 8 x 6 mm | prominent: 0.922, pelvis: 0.885, lymph node: 0.871, tiny: 0.823, enlargement: 0.749, 
+
+slice 23
+lesion A, score: 0.969 | 25 x 15 mm | calcified: 0.981, sclerotic: 0.976, pelvis: 0.936, enhancing: 0.933, cancer: 0.919, mass: 0.718, circumscribed: 0.536, patchy: 0.486, lobular: 0.437, 
+lesion B, score: 0.859 | 9 x 8 mm | sclerotic: 0.986, calcified: 0.982, enhancing: 0.954, pelvis: 0.927, cancer: 0.909, mass: 0.601, patchy: 0.376, lobular: 0.365, 
+
+slice 24
+lesion A, score: 0.986 | 32 x 16 mm | calcified: 0.978, sclerotic: 0.963, pelvis: 0.937, enhancing: 0.917, cancer: 0.915, mass: 0.751, circumscribed: 0.532, patchy: 0.485, lobular: 0.480, 
+lesion B, score: 0.872 | 12 x 9 mm | sclerotic: 0.989, calcified: 0.986, enhancing: 0.962, pelvis: 0.920, cancer: 0.913, mass: 0.602, patchy: 0.380, lobular: 0.361, 
+
+slice 25
+lesion A, score: 0.991 | 33 x 17 mm | calcified: 0.978, sclerotic: 0.959, pelvis: 0.934, cancer: 0.917, enhancing: 0.910, mass: 0.763, circumscribed: 0.510, lobular: 0.497, patchy: 0.466, 
+lesion B, score: 0.812 | 12 x 10 mm | sclerotic: 0.989, calcified: 0.987, enhancing: 0.961, pelvis: 0.920, cancer: 0.914, mass: 0.606, lobular: 0.378, patchy: 0.368, 
+lesion C, score: 0.663 | 11 x 10 mm | hypoattenuation: 0.851, mass: 0.758, upper abdomen: 0.701, circumscribed: 0.636, 
+
+slice 26
+lesion A, score: 0.992 | 34 x 17 mm | calcified: 0.978, sclerotic: 0.957, pelvis: 0.932, cancer: 0.919, enhancing: 0.909, mass: 0.764, lobular: 0.512, patchy: 0.463, 
+lesion B, score: 0.805 | 12 x 10 mm | sclerotic: 0.989, calcified: 0.986, enhancing: 0.962, pelvis: 0.917, cancer: 0.913, lobular: 0.387, patchy: 0.361, 
+lesion C, score: 0.663 | 11 x 11 mm | hypoattenuation: 0.854, mass: 0.754, upper abdomen: 0.695, circumscribed: 0.635, 
+
+slice 27
+lesion A, score: 0.993 | 33 x 18 mm | calcified: 0.981, sclerotic: 0.961, pelvis: 0.934, cancer: 0.926, enhancing: 0.918, soft tissue: 0.861, mass: 0.793, lobular: 0.547, patchy: 0.410, 
+lesion B, score: 0.694 | 13 x 10 mm | sclerotic: 0.988, calcified: 0.986, enhancing: 0.958, pelvis: 0.929, cancer: 0.911, mass: 0.611, lobular: 0.379, patchy: 0.360, 
+
+slice 28
+lesion A, score: 0.993 | 31 x 17 mm | calcified: 0.982, sclerotic: 0.965, pelvis: 0.940, enhancing: 0.926, cancer: 0.925, soft tissue: 0.863, mass: 0.794, lobular: 0.551, patchy: 0.418, 
+lesion B, score: 0.712 | 14 x 12 mm | sclerotic: 0.986, calcified: 0.983, enhancing: 0.945, pelvis: 0.939, cancer: 0.912, mass: 0.614, patchy: 0.397, lobular: 0.363, 
+
+slice 29
+lesion A, score: 0.993 | 31 x 17 mm | calcified: 0.983, sclerotic: 0.969, pelvis: 0.940, enhancing: 0.928, cancer: 0.925, soft tissue: 0.855, mass: 0.792, lobular: 0.559, patchy: 0.416, 
+lesion B, score: 0.738 | 12 x 10 mm | sclerotic: 0.986, calcified: 0.979, enhancing: 0.946, pelvis: 0.936, cancer: 0.901, mass: 0.618, lobular: 0.365, patchy: 0.361, 
+lesion C, score: 0.694 | 8 x 3 mm | calcified: 0.909, sclerotic: 0.888, enhancing: 0.831, patchy: 0.559, circumscribed: 0.553, 
+lesion D, score: 0.527 | 14 x 12 mm | cortex: 0.967, calcified: 0.914, enhancing: 0.760, circumscribed: 0.749, sclerotic: 0.711, mass: 0.636, patchy: 0.610, 
+
+slice 30
+lesion A, score: 0.995 | 31 x 16 mm | calcified: 0.985, sclerotic: 0.976, metastasis: 0.950, pelvis: 0.939, enhancing: 0.935, mass: 0.777, lobular: 0.549, patchy: 0.414, 
+lesion B, score: 0.986 | 7 x 3 mm | sclerotic: 0.924, calcified: 0.905, enhancing: 0.877, patchy: 0.427, 
+lesion C, score: 0.919 | 15 x 11 mm | bone: 0.993, cortex: 0.966, cancer: 0.906, calcified: 0.894, circumscribed: 0.770, enhancing: 0.751, mass: 0.627, patchy: 0.571, 
+lesion D, score: 0.762 | 13 x 11 mm | sclerotic: 0.984, calcified: 0.979, enhancing: 0.945, pelvis: 0.938, cancer: 0.904, mass: 0.636, lobular: 0.394, patchy: 0.347, 
+
+slice 31
+lesion A, score: 0.996 | 31 x 16 mm | calcified: 0.985, sclerotic: 0.976, metastasis: 0.951, pelvis: 0.937, enhancing: 0.934, mass: 0.774, lobular: 0.548, patchy: 0.404, 
+lesion B, score: 0.995 | 6 x 4 mm | sclerotic: 0.936, calcified: 0.910, enhancing: 0.890, patchy: 0.376, 
+lesion C, score: 0.886 | 17 x 11 mm | bone: 0.991, cortex: 0.966, calcified: 0.890, circumscribed: 0.769, mass: 0.626, patchy: 0.577, 
+lesion D, score: 0.694 | 13 x 10 mm | sclerotic: 0.979, calcified: 0.977, enhancing: 0.941, pelvis: 0.937, cancer: 0.909, mass: 0.667, lobular: 0.438, patchy: 0.334, 
+
+slice 32
+lesion A, score: 0.996 | 30 x 17 mm | calcified: 0.986, sclerotic: 0.979, metastasis: 0.953, enhancing: 0.941, pelvis: 0.938, mass: 0.769, lobular: 0.536, patchy: 0.406, 
+lesion B, score: 0.996 | 6 x 3 mm | sclerotic: 0.935, calcified: 0.905, enhancing: 0.879, patchy: 0.324, 
+lesion C, score: 0.751 | 19 x 11 mm | bone: 0.991, cortex: 0.968, calcified: 0.896, enhancing: 0.765, circumscribed: 0.761, mass: 0.630, patchy: 0.575, 
+lesion D, score: 0.708 | 12 x 10 mm | sclerotic: 0.980, calcified: 0.976, enhancing: 0.949, pelvis: 0.940, cancer: 0.910, mass: 0.679, lobular: 0.460, patchy: 0.312, 
+lesion E, score: 0.651 | 12 x 9 mm | pelvis: 0.905, lymph node: 0.824, enlargement: 0.819, nodule: 0.662, mass: 0.619, 
+
+slice 33
+lesion A, score: 0.994 | 29 x 16 mm | calcified: 0.986, sclerotic: 0.981, metastasis: 0.953, pelvis: 0.945, enhancing: 0.942, mass: 0.771, lobular: 0.549, patchy: 0.388, 
+lesion B, score: 0.952 | 5 x 4 mm | sclerotic: 0.943, calcified: 0.922, enhancing: 0.872, patchy: 0.447, 
+lesion C, score: 0.884 | 13 x 9 mm | pelvis: 0.918, enlargement: 0.827, lymph node: 0.816, mass: 0.624, 
+lesion D, score: 0.700 | 11 x 7 mm | sclerotic: 0.982, calcified: 0.978, enhancing: 0.947, pelvis: 0.946, cancer: 0.914, mass: 0.678, lobular: 0.469, patchy: 0.278, 
+lesion E, score: 0.664 | 49 x 41 mm | thin: 0.985, large: 0.890, mass: 0.859, cyst: 0.851, hypoattenuation: 0.782, lobular: 0.429, 
+
+slice 34
+lesion A, score: 0.992 | 28 x 16 mm | calcified: 0.985, sclerotic: 0.978, pelvis: 0.951, enhancing: 0.941, cancer: 0.926, mass: 0.776, lobular: 0.568, patchy: 0.391, 
+lesion B, score: 0.751 | 12 x 7 mm | calcified: 0.967, sclerotic: 0.966, pelvis: 0.959, enhancing: 0.926, cancer: 0.920, mass: 0.673, lobular: 0.440, patchy: 0.281, 
+lesion C, score: 0.719 | 10 x 9 mm | pelvis: 0.906, enlargement: 0.827, lymph node: 0.809, mass: 0.639, 
+lesion D, score: 0.648 | 49 x 40 mm | thin: 0.987, large: 0.895, cyst: 0.859, mass: 0.856, hypoattenuation: 0.783, lobular: 0.435, 
+
+slice 35
+lesion A, score: 0.988 | 28 x 17 mm | calcified: 0.982, sclerotic: 0.974, pelvis: 0.955, enhancing: 0.937, cancer: 0.917, mass: 0.769, lobular: 0.578, patchy: 0.409, 
+lesion B, score: 0.770 | 12 x 10 mm | calcified: 0.972, sclerotic: 0.970, pelvis: 0.965, metastasis: 0.953, enhancing: 0.934, mass: 0.655, lobular: 0.425, patchy: 0.307, 
+lesion C, score: 0.669 | 21 x 14 mm | psoas muscle: 0.955, pelvis: 0.876, mass: 0.796, lymphadenopathy: 0.783, hypoattenuation: 0.757, 
+
+slice 36
+lesion A, score: 0.988 | 28 x 16 mm | calcified: 0.980, sclerotic: 0.969, pelvis: 0.956, enhancing: 0.929, cancer: 0.913, mass: 0.765, lobular: 0.581, patchy: 0.431, 
+lesion B, score: 0.661 | 21 x 13 mm | psoas muscle: 0.952, pelvis: 0.878, mass: 0.794, lymphadenopathy: 0.786, hypoattenuation: 0.747, 
+lesion C, score: 0.575 | 27 x 21 mm | sacrum: 0.963, soft tissue: 0.951, calcified: 0.888, mass: 0.858, lobular: 0.635, circumscribed: 0.592, 
+lesion D, score: 0.568 | 11 x 6 mm | pelvis: 0.960, calcified: 0.949, sclerotic: 0.930, enhancing: 0.886, mass: 0.654, circumscribed: 0.530, lobular: 0.425, patchy: 0.313, 
+
+slice 37
+lesion A, score: 0.988 | 26 x 15 mm | calcified: 0.975, sclerotic: 0.963, pelvis: 0.956, enhancing: 0.915, cancer: 0.907, mass: 0.748, lobular: 0.575, patchy: 0.434, 
+lesion B, score: 0.620 | 12 x 9 mm | pelvis: 0.968, calcified: 0.945, sclerotic: 0.928, enhancing: 0.876, mass: 0.636, circumscribed: 0.576, lobular: 0.441, patchy: 0.348, 
+lesion C, score: 0.577 | 10 x 7 mm | sclerotic: 0.955, calcified: 0.948, enhancing: 0.918, circumscribed: 0.660, patchy: 0.549, 
+lesion D, score: 0.557 | 22 x 15 mm | pelvis: 0.886, mass: 0.798, lymphadenopathy: 0.773, hypoattenuation: 0.748, 
+lesion E, score: 0.512 | 17 x 12 mm | bone: 0.993, pelvis: 0.946, calcified: 0.819, circumscribed: 0.681, mass: 0.656, patchy: 0.393, lobular: 0.363, 
+
+slice 38
+lesion A, score: 0.980 | 26 x 14 mm | calcified: 0.971, pelvis: 0.959, sclerotic: 0.953, enhancing: 0.910, cancer: 0.901, mass: 0.756, lobular: 0.591, patchy: 0.427, 
+lesion B, score: 0.797 | 5 x 3 mm | pelvis: 0.856, calcified: 0.841, sclerotic: 0.746, mass: 0.609, circumscribed: 0.560, lobular: 0.415, patchy: 0.303, 
+lesion C, score: 0.687 | 12 x 10 mm | pelvis: 0.972, calcified: 0.938, sclerotic: 0.892, enhancing: 0.862, mass: 0.672, circumscribed: 0.629, lobular: 0.493, patchy: 0.351, 
+lesion D, score: 0.524 | 17 x 12 mm | bone: 0.992, pelvis: 0.947, calcified: 0.814, circumscribed: 0.694, mass: 0.644, patchy: 0.369, lobular: 0.368, 
+
+slice 39
+lesion A, score: 0.963 | 22 x 15 mm | pelvis: 0.966, calcified: 0.961, sclerotic: 0.927, enhancing: 0.897, mass: 0.755, lobular: 0.610, circumscribed: 0.534, patchy: 0.425, 
+lesion B, score: 0.946 | 5 x 3 mm | calcified: 0.814, sclerotic: 0.773, lobular: 0.371, 
+lesion C, score: 0.736 | 20 x 14 mm | bone: 0.987, pelvis: 0.912, calcified: 0.769, circumscribed: 0.740, mass: 0.647, lobular: 0.398, patchy: 0.320, 
+
+slice 40
+lesion A, score: 0.867 | 23 x 14 mm | pelvis: 0.968, calcified: 0.951, sclerotic: 0.895, enhancing: 0.878, mass: 0.770, lobular: 0.645, circumscribed: 0.577, patchy: 0.391, 
+lesion B, score: 0.719 | 16 x 14 mm | bone: 0.992, pelvis: 0.949, calcified: 0.839, mass: 0.662, circumscribed: 0.662, lobular: 0.417, patchy: 0.357, 
+lesion C, score: 0.622 | 5 x 3 mm | bone: 0.967, pelvis: 0.852, calcified: 0.816, mass: 0.648, circumscribed: 0.521, lobular: 0.425, patchy: 0.275, 
+
+slice 41
+lesion A, score: 0.739 | 23 x 13 mm | pelvis: 0.972, calcified: 0.942, enhancing: 0.853, sclerotic: 0.840, mass: 0.776, lobular: 0.665, circumscribed: 0.625, patchy: 0.373, 
+lesion B, score: 0.664 | 12 x 10 mm | bone: 0.994, pelvis: 0.954, calcified: 0.851, circumscribed: 0.665, mass: 0.633, lobular: 0.424, patchy: 0.423, 
+
+slice 42
+lesion A, score: 0.729 | 10 x 9 mm | pelvis: 0.958, calcified: 0.894, enhancing: 0.762, sclerotic: 0.726, mass: 0.641, circumscribed: 0.631, lobular: 0.445, patchy: 0.441, 
+lesion B, score: 0.656 | 17 x 13 mm | pelvis: 0.976, calcified: 0.921, enhancing: 0.805, mass: 0.759, sclerotic: 0.744, circumscribed: 0.711, lobular: 0.634, patchy: 0.364, 
+lesion C, score: 0.518 | 9 x 7 mm | lymph node: 0.820, enlargement: 0.772, nodule: 0.710, mass: 0.668, lobular: 0.257, 
+
+slice 43
+lesion A, score: 0.838 | 11 x 7 mm | pelvis: 0.964, calcified: 0.919, enhancing: 0.838, sclerotic: 0.791, mass: 0.674, circumscribed: 0.564, lobular: 0.490, patchy: 0.420, 
+lesion B, score: 0.661 | 23 x 15 mm | pelvis: 0.887, enlargement: 0.861, mass: 0.825, lymph node: 0.783, hypoattenuation: 0.779, lobular: 0.348, 
+
+slice 44
+lesion A, score: 0.800 | 21 x 12 mm | pelvis: 0.885, enlargement: 0.878, mass: 0.824, lymph node: 0.802, hypoattenuation: 0.762, lobular: 0.301, 
+lesion B, score: 0.736 | 8 x 6 mm | pelvis: 0.909, hypoattenuation: 0.852, enlargement: 0.789, lymph node: 0.736, mass: 0.704, 
+lesion C, score: 0.526 | 9 x 7 mm | pelvis: 0.866, enlargement: 0.787, lymph node: 0.779, mass: 0.654, nodule: 0.652, 
+
+slice 45
+lesion A, score: 0.818 | 8 x 6 mm | pelvis: 0.892, hypoattenuation: 0.849, enlargement: 0.763, lymph node: 0.722, mass: 0.684, 
+lesion B, score: 0.803 | 18 x 13 mm | pelvis: 0.887, enlargement: 0.881, mass: 0.821, lymph node: 0.819, hypoattenuation: 0.744, lobular: 0.264, 
+lesion C, score: 0.555 | 12 x 10 mm | pelvis: 0.882, lymphadenopathy: 0.776, nodule: 0.722, mass: 0.682, 
+lesion D, score: 0.505 | 18 x 16 mm | bone: 0.988, circumscribed: 0.944, pelvis: 0.922, soft tissue: 0.854, hypoattenuation: 0.840, mass: 0.781, calcified: 0.758, lobular: 0.516, 
+
+slice 46
+lesion A, score: 0.780 | 17 x 15 mm | bone: 0.988, circumscribed: 0.943, pelvis: 0.922, hypoattenuation: 0.834, mass: 0.777, calcified: 0.768, lobular: 0.523, 
+lesion B, score: 0.550 | 11 x 10 mm | bone: 0.995, soft tissue: 0.889, circumscribed: 0.861, pelvis: 0.860, calcified: 0.787, hypoattenuation: 0.737, mass: 0.647, patchy: 0.274, lobular: 0.268, 
+lesion C, score: 0.526 | 16 x 9 mm | pelvis: 0.887, mass: 0.791, lymphadenopathy: 0.751, hypoattenuation: 0.726, lobular: 0.276, 
+
+slice 47
+lesion A, score: 0.774 | 11 x 10 mm | bone: 0.993, soft tissue: 0.874, pelvis: 0.865, circumscribed: 0.859, calcified: 0.771, hypoattenuation: 0.768, mass: 0.660, lobular: 0.310, 
+lesion B, score: 0.687 | 19 x 18 mm | bone: 0.989, circumscribed: 0.937, pelvis: 0.924, calcified: 0.798, hypoattenuation: 0.786, mass: 0.766, lobular: 0.502, 
+lesion C, score: 0.559 | 7 x 6 mm | pelvis: 0.898, hypoattenuation: 0.844, lymph node: 0.814, enlargement: 0.801, mass: 0.656, 
+
+slice 48
+lesion A, score: 0.710 | 11 x 10 mm | bone: 0.993, circumscribed: 0.876, soft tissue: 0.855, calcified: 0.772, hypoattenuation: 0.765, mass: 0.642, lobular: 0.262, 
+lesion B, score: 0.664 | 10 x 7 mm | pelvis: 0.878, lymph node: 0.844, enlargement: 0.809, nodule: 0.659, mass: 0.609, 
+lesion C, score: 0.587 | 6 x 5 mm | pelvis: 0.895, lymph node: 0.832, hypoattenuation: 0.812, enlargement: 0.811, mass: 0.622, 
+lesion D, score: 0.548 | 12 x 7 mm | pelvis: 0.949, calcified: 0.923, sclerotic: 0.897, enhancing: 0.844, circumscribed: 0.777, mass: 0.662, lobular: 0.421, patchy: 0.286, 
+
+slice 49
+lesion A, score: 0.744 | 11 x 7 mm | pelvis: 0.892, lymph node: 0.847, enlargement: 0.812, nodule: 0.669, mass: 0.617, 
+lesion B, score: 0.699 | 12 x 9 mm | bone: 0.978, pelvis: 0.880, circumscribed: 0.848, hypoattenuation: 0.777, mass: 0.632, lobular: 0.450, 
+lesion C, score: 0.628 | 13 x 8 mm | pelvis: 0.945, calcified: 0.915, sclerotic: 0.861, enhancing: 0.822, circumscribed: 0.778, mass: 0.682, lobular: 0.458, patchy: 0.273, 
+lesion D, score: 0.526 | 13 x 10 mm | pelvis: 0.892, lymphadenopathy: 0.818, nodule: 0.690, mass: 0.640, 
+
+slice 50
+lesion A, score: 0.792 | 11 x 8 mm | bone: 0.979, circumscribed: 0.888, pelvis: 0.863, hypoattenuation: 0.816, mass: 0.624, lobular: 0.417, 
+lesion B, score: 0.749 | 13 x 8 mm | pelvis: 0.896, lymph node: 0.854, enlargement: 0.814, nodule: 0.653, mass: 0.641, 
+lesion C, score: 0.604 | 16 x 12 mm | pelvis: 0.891, lymphadenopathy: 0.813, mass: 0.685, hypoattenuation: 0.680, 
+
+slice 51
+lesion A, score: 0.808 | 7 x 6 mm | pelvis: 0.896, lymph node: 0.852, enlargement: 0.784, enhancing: 0.758, nodule: 0.706, mass: 0.616, 
+lesion B, score: 0.758 | 14 x 7 mm | calcified: 0.959, sclerotic: 0.957, cortex: 0.925, cancer: 0.921, enhancing: 0.904, patchy: 0.541, 
+lesion C, score: 0.639 | 10 x 7 mm | lymph node: 0.769, mass: 0.743, hypoattenuation: 0.661, peritoneum: 0.459, lobular: 0.344, 
+lesion D, score: 0.570 | 10 x 8 mm | bone: 0.975, circumscribed: 0.905, hypoattenuation: 0.833, mass: 0.611, lobular: 0.371, 
+lesion E, score: 0.558 | 18 x 15 mm | calcified: 0.945, pelvis: 0.928, cancer: 0.902, enhancing: 0.857, sclerotic: 0.776, mass: 0.709, circumscribed: 0.658, patchy: 0.563, lobular: 0.373, 
+lesion F, score: 0.536 | 17 x 13 mm | pelvis: 0.887, lymphadenopathy: 0.793, mass: 0.723, hypoattenuation: 0.718, 
+
+slice 52
+lesion A, score: 0.884 | 20 x 16 mm | calcified: 0.952, pelvis: 0.928, cancer: 0.916, enhancing: 0.864, indistinct: 0.855, sclerotic: 0.773, mass: 0.723, circumscribed: 0.668, patchy: 0.554, lobular: 0.374, 
+lesion B, score: 0.785 | 14 x 8 mm | calcified: 0.950, cortex: 0.950, sclerotic: 0.945, cancer: 0.920, enhancing: 0.880, circumscribed: 0.557, patchy: 0.518, chest: 0.469, 
+lesion C, score: 0.755 | 9 x 7 mm | lymph node: 0.779, mass: 0.748, hypoattenuation: 0.662, peritoneum: 0.409, lobular: 0.335, 
+lesion D, score: 0.598 | 7 x 6 mm | pelvis: 0.898, lymph node: 0.821, enhancing: 0.798, enlargement: 0.750, nodule: 0.677, mass: 0.624, lobular: 0.269, 
+
+slice 53
+lesion A, score: 0.877 | 9 x 7 mm | lymph node: 0.787, mass: 0.760, hypoattenuation: 0.691, peritoneum: 0.390, lobular: 0.343, 
+lesion B, score: 0.861 | 19 x 16 mm | calcified: 0.958, pelvis: 0.929, cancer: 0.918, enhancing: 0.879, sclerotic: 0.826, mass: 0.723, circumscribed: 0.612, patchy: 0.575, lobular: 0.363, 
+lesion C, score: 0.762 | 15 x 11 mm | cortex: 0.955, calcified: 0.944, sclerotic: 0.925, cancer: 0.918, enhancing: 0.868, mass: 0.618, circumscribed: 0.591, patchy: 0.510, chest: 0.490, 
+lesion D, score: 0.612 | 17 x 11 mm | hypoattenuation: 0.807, mass: 0.800, lymph node: 0.742, enlargement: 0.740, nodule: 0.671, lobular: 0.318, 
+
+slice 54
+lesion A, score: 0.913 | 14 x 12 mm | calcified: 0.954, cancer: 0.923, pelvis: 0.914, enhancing: 0.898, sclerotic: 0.882, mass: 0.671, circumscribed: 0.608, patchy: 0.579, lobular: 0.302, 
+lesion B, score: 0.790 | 10 x 7 mm | lymph node: 0.796, mass: 0.755, hypoattenuation: 0.720, enlargement: 0.702, peritoneum: 0.333, lobular: 0.314, 
+lesion C, score: 0.551 | 15 x 10 mm | cortex: 0.943, calcified: 0.939, sclerotic: 0.917, cancer: 0.913, enhancing: 0.873, mass: 0.622, patchy: 0.553, circumscribed: 0.539, chest: 0.432, 
+
+slice 55
+lesion A, score: 0.960 | 9 x 8 mm | calcified: 0.938, sclerotic: 0.928, cancer: 0.917, enhancing: 0.913, pelvis: 0.889, circumscribed: 0.610, patchy: 0.547, 
+lesion B, score: 0.811 | 10 x 7 mm | lymph node: 0.812, mass: 0.734, enlargement: 0.722, hypoattenuation: 0.717, lobular: 0.253, 
+
+slice 56
+lesion A, score: 0.986 | 8 x 7 mm | sclerotic: 0.935, enhancing: 0.922, calcified: 0.921, cancer: 0.907, pelvis: 0.861, circumscribed: 0.615, patchy: 0.481, 
+lesion B, score: 0.781 | 10 x 6 mm | lymph node: 0.800, enlargement: 0.720, mass: 0.720, hypoattenuation: 0.683, lobular: 0.258, 
+
+slice 57
+lesion A, score: 0.917 | 8 x 6 mm | enhancing: 0.914, calcified: 0.909, sclerotic: 0.905, pelvis: 0.873, circumscribed: 0.629, patchy: 0.513, lobular: 0.265, 
+lesion B, score: 0.851 | 33 x 25 mm | mass: 0.903, soft tissue: 0.859, hypoattenuation: 0.824, enlargement: 0.732, lobular: 0.695, 
+lesion C, score: 0.805 | 45 x 34 mm | soft tissue: 0.890, large: 0.876, pelvis: 0.854, enlargement: 0.745, lobular mass: 0.444, 
+
+slice 58
+lesion A, score: 0.862 | 34 x 28 mm | mass: 0.909, soft tissue: 0.868, hypoattenuation: 0.805, enlargement: 0.725, lobular: 0.705, 
+lesion B, score: 0.777 | 46 x 35 mm | soft tissue: 0.899, pelvis: 0.879, large: 0.869, enlargement: 0.748, lobular mass: 0.428, 
+lesion C, score: 0.686 | 13 x 12 mm | pelvis: 0.896, calcified: 0.893, enhancing: 0.875, sclerotic: 0.833, circumscribed: 0.723, mass: 0.619, patchy: 0.587, lobular: 0.276, 
+
+slice 59
+lesion A, score: 0.913 | 48 x 35 mm | soft tissue: 0.896, pelvis: 0.895, large: 0.864, enlargement: 0.749, lobular mass: 0.432, 
+lesion B, score: 0.875 | 33 x 29 mm | mass: 0.919, soft tissue: 0.875, large: 0.814, hypoattenuation: 0.793, enlargement: 0.732, lobular: 0.711, peritoneum: 0.282, 
+
+slice 60
+lesion A, score: 0.915 | 51 x 38 mm | pelvis: 0.913, soft tissue: 0.908, large: 0.873, enhancing: 0.763, enlargement: 0.759, lobular mass: 0.472, 
+lesion B, score: 0.902 | 34 x 26 mm | mass: 0.915, soft tissue: 0.861, hypoattenuation: 0.817, large: 0.812, enlargement: 0.745, lobular: 0.677, 
+
+slice 61
+lesion A, score: 0.907 | 34 x 27 mm | mass: 0.909, soft tissue: 0.852, hypoattenuation: 0.831, large: 0.802, enlargement: 0.745, lobular: 0.663, 
+lesion B, score: 0.905 | 50 x 39 mm | pelvis: 0.911, soft tissue: 0.905, large: 0.876, enhancing: 0.774, enlargement: 0.754, lobular mass: 0.471, 
+
